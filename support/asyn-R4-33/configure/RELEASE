@@ -1,0 +1,16 @@
+#RELEASE Location of external products
+
+include $(TOP)/../../release.local
+#-include $(TOP)/../configure/SUPPORT.$(EPICS_HOST_ARCH)
+
+#  IPAC is only necessary if support for Greensprings IP488 is required
+#  IPAC release V2-7 or later is required.
+IPAC=$(SUPPORT)/ipac
+
+# SEQ is required for testIPServer
+SNCSEQ=$(SUPPORT)/seq-2.2.5
+
+#  EPICS_BASE 3.14.6 or later is required
+#EPICS_BASE=D:\epics\base-3.14.12.7
+include $(TOP)/../../release.local
+#-include $(TOP)/../configure/EPICS_BASE.$(EPICS_HOST_ARCH)

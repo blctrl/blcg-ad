@@ -1,0 +1,51 @@
+# DO NOT EDIT: This file created by mkmf.pl,v 1.5 2002/03/25 21:33:24 jba Exp $ 
+
+evflag.obj : ../../../include/seq_snc.h
+evflag.obj : ../testSupport.h
+evflag.obj : ../seqMain.c
+evflag.obj : d:\epics\base-3.14.12.7/include/epicsExport.h
+evflag.obj : d:\epics\base-3.14.12.7/include/shareLib.h
+evflag.obj : ../../../include/seqCom.h
+evflag.obj : ../../../include/seq_prim_types.h
+evflag.obj : ../../../include/seq_mask.h
+evflag.obj : d:\epics\base-3.14.12.7/include/epicsThread.h
+evflag.obj : d:\epics\base-3.14.12.7/include/epicsMutex.h
+evflag.obj : d:\epics\base-3.14.12.7/include/epicsUnitTest.h
+evflag.obj : d:\epics\base-3.14.12.7/include/registryFunction.h
+evflag.obj : d:\epics\base-3.14.12.7/include/epicsExit.h
+evflag.obj : d:\epics\base-3.14.12.7/include/epicsStdio.h
+evflag.obj : d:\epics\base-3.14.12.7/include/dbStaticLib.h
+evflag.obj : d:\epics\base-3.14.12.7/include/subRecord.h
+evflag.obj : d:\epics\base-3.14.12.7/include/dbAccess.h
+evflag.obj : d:\epics\base-3.14.12.7/include/asDbLib.h
+evflag.obj : d:\epics\base-3.14.12.7/include/iocInit.h
+evflag.obj : d:\epics\base-3.14.12.7/include/iocsh.h
+evflag.obj : d:\epics\base-3.14.12.7/include/errlog.h
+evflag.obj : d:\epics\base-3.14.12.7/include/epicsTypes.h
+evflag.obj : d:\epics\base-3.14.12.7/include/epicsTime.h
+evflag.obj : ../../../include/pvAlarm.h
+evflag.obj : ../../../include/seq_release.h
+evflag.obj : d:\epics\base-3.14.12.7/include/epicsEvent.h
+evflag.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdThread.h
+evflag.obj : d:\epics\base-3.14.12.7/include/epicsAssert.h
+evflag.obj : d:\epics\base-3.14.12.7/include/compilerDependencies.h
+evflag.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdMutex.h
+evflag.obj : d:\epics\base-3.14.12.7/include/dbFldTypes.h
+evflag.obj : d:\epics\base-3.14.12.7/include/dbBase.h
+evflag.obj : d:\epics\base-3.14.12.7/include/link.h
+evflag.obj : d:\epics\base-3.14.12.7/include/errMdef.h
+evflag.obj : d:\epics\base-3.14.12.7/include/cantProceed.h
+evflag.obj : d:\epics\base-3.14.12.7/include/ellLib.h
+evflag.obj : d:\epics\base-3.14.12.7/include/dbDefs.h
+evflag.obj : d:\epics\base-3.14.12.7/include/caeventmask.h
+evflag.obj : d:\epics\base-3.14.12.7/include/dbAddr.h
+evflag.obj : d:\epics\base-3.14.12.7/include/dbLock.h
+evflag.obj : d:\epics\base-3.14.12.7/include/dbAccessDefs.h
+evflag.obj : d:\epics\base-3.14.12.7/include/dbCa.h
+evflag.obj : d:\epics\base-3.14.12.7/include/dbCommon.h
+evflag.obj : d:\epics\base-3.14.12.7/include/db_field_log.h
+evflag.obj : d:\epics\base-3.14.12.7/include/callback.h
+evflag.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdTime.h
+evflag.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdEvent.h
+
+

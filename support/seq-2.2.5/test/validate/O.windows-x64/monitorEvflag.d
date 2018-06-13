@@ -1,0 +1,51 @@
+# DO NOT EDIT: This file created by mkmf.pl,v 1.5 2002/03/25 21:33:24 jba Exp $ 
+
+monitorEvflag.obj : ../../../include/seq_snc.h
+monitorEvflag.obj : ../testSupport.h
+monitorEvflag.obj : ../seqMain.c
+monitorEvflag.obj : d:\epics\base-3.14.12.7/include/epicsExport.h
+monitorEvflag.obj : d:\epics\base-3.14.12.7/include/shareLib.h
+monitorEvflag.obj : ../../../include/seqCom.h
+monitorEvflag.obj : ../../../include/seq_prim_types.h
+monitorEvflag.obj : ../../../include/seq_mask.h
+monitorEvflag.obj : d:\epics\base-3.14.12.7/include/epicsThread.h
+monitorEvflag.obj : d:\epics\base-3.14.12.7/include/epicsMutex.h
+monitorEvflag.obj : d:\epics\base-3.14.12.7/include/epicsUnitTest.h
+monitorEvflag.obj : d:\epics\base-3.14.12.7/include/registryFunction.h
+monitorEvflag.obj : d:\epics\base-3.14.12.7/include/epicsExit.h
+monitorEvflag.obj : d:\epics\base-3.14.12.7/include/epicsStdio.h
+monitorEvflag.obj : d:\epics\base-3.14.12.7/include/dbStaticLib.h
+monitorEvflag.obj : d:\epics\base-3.14.12.7/include/subRecord.h
+monitorEvflag.obj : d:\epics\base-3.14.12.7/include/dbAccess.h
+monitorEvflag.obj : d:\epics\base-3.14.12.7/include/asDbLib.h
+monitorEvflag.obj : d:\epics\base-3.14.12.7/include/iocInit.h
+monitorEvflag.obj : d:\epics\base-3.14.12.7/include/iocsh.h
+monitorEvflag.obj : d:\epics\base-3.14.12.7/include/errlog.h
+monitorEvflag.obj : d:\epics\base-3.14.12.7/include/epicsTypes.h
+monitorEvflag.obj : d:\epics\base-3.14.12.7/include/epicsTime.h
+monitorEvflag.obj : ../../../include/pvAlarm.h
+monitorEvflag.obj : ../../../include/seq_release.h
+monitorEvflag.obj : d:\epics\base-3.14.12.7/include/epicsEvent.h
+monitorEvflag.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdThread.h
+monitorEvflag.obj : d:\epics\base-3.14.12.7/include/epicsAssert.h
+monitorEvflag.obj : d:\epics\base-3.14.12.7/include/compilerDependencies.h
+monitorEvflag.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdMutex.h
+monitorEvflag.obj : d:\epics\base-3.14.12.7/include/dbFldTypes.h
+monitorEvflag.obj : d:\epics\base-3.14.12.7/include/dbBase.h
+monitorEvflag.obj : d:\epics\base-3.14.12.7/include/link.h
+monitorEvflag.obj : d:\epics\base-3.14.12.7/include/errMdef.h
+monitorEvflag.obj : d:\epics\base-3.14.12.7/include/cantProceed.h
+monitorEvflag.obj : d:\epics\base-3.14.12.7/include/ellLib.h
+monitorEvflag.obj : d:\epics\base-3.14.12.7/include/dbDefs.h
+monitorEvflag.obj : d:\epics\base-3.14.12.7/include/caeventmask.h
+monitorEvflag.obj : d:\epics\base-3.14.12.7/include/dbAddr.h
+monitorEvflag.obj : d:\epics\base-3.14.12.7/include/dbLock.h
+monitorEvflag.obj : d:\epics\base-3.14.12.7/include/dbAccessDefs.h
+monitorEvflag.obj : d:\epics\base-3.14.12.7/include/dbCa.h
+monitorEvflag.obj : d:\epics\base-3.14.12.7/include/dbCommon.h
+monitorEvflag.obj : d:\epics\base-3.14.12.7/include/db_field_log.h
+monitorEvflag.obj : d:\epics\base-3.14.12.7/include/callback.h
+monitorEvflag.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdTime.h
+monitorEvflag.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdEvent.h
+
+

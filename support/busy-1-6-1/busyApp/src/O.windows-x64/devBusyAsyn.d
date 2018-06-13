@@ -1,0 +1,52 @@
+# DO NOT EDIT: This file created by mkmf.pl,v 1.5 2002/03/25 21:33:24 jba Exp $ 
+
+devBusyAsyn.obj : d:\epics\base-3.14.12.7/include/alarm.h
+devBusyAsyn.obj : d:\epics\base-3.14.12.7/include/recGbl.h
+devBusyAsyn.obj : d:\epics\base-3.14.12.7/include/os/WIN32/epicsMath.h
+devBusyAsyn.obj : d:\epics\base-3.14.12.7/include/dbAccess.h
+devBusyAsyn.obj : d:\epics\base-3.14.12.7/include/dbDefs.h
+devBusyAsyn.obj : d:\epics\base-3.14.12.7/include/dbStaticLib.h
+devBusyAsyn.obj : d:\epics\base-3.14.12.7/include/dbEvent.h
+devBusyAsyn.obj : d:\epics\base-3.14.12.7/include/link.h
+devBusyAsyn.obj : d:\epics\base-3.14.12.7/include/epicsPrint.h
+devBusyAsyn.obj : d:\epics\base-3.14.12.7/include/epicsMutex.h
+devBusyAsyn.obj : d:\epics\base-3.14.12.7/include/epicsThread.h
+devBusyAsyn.obj : d:\epics\base-3.14.12.7/include/cantProceed.h
+devBusyAsyn.obj : d:\epics\base-3.14.12.7/include/dbCommon.h
+devBusyAsyn.obj : d:\epics\base-3.14.12.7/include/dbScan.h
+devBusyAsyn.obj : d:\epics\base-3.14.12.7/include/callback.h
+devBusyAsyn.obj : ../O.Common/busyRecord.h
+devBusyAsyn.obj : d:\epics\base-3.14.12.7/include/recSup.h
+devBusyAsyn.obj : d:\epics\base-3.14.12.7/include/devSup.h
+devBusyAsyn.obj : d:\epics\ad/asyn-R4-33/include/asynDriver.h
+devBusyAsyn.obj : d:\epics\ad/asyn-R4-33/include/asynDrvUser.h
+devBusyAsyn.obj : d:\epics\ad/asyn-R4-33/include/asynInt32.h
+devBusyAsyn.obj : d:\epics\ad/asyn-R4-33/include/asynInt32SyncIO.h
+devBusyAsyn.obj : d:\epics\ad/asyn-R4-33/include/asynEpicsUtils.h
+devBusyAsyn.obj : d:\epics\base-3.14.12.7/include/epicsExport.h
+devBusyAsyn.obj : d:\epics\base-3.14.12.7/include/shareLib.h
+devBusyAsyn.obj : d:\epics\base-3.14.12.7/include/epicsTypes.h
+devBusyAsyn.obj : d:\epics\base-3.14.12.7/include/alarmString.h
+devBusyAsyn.obj : d:\epics\base-3.14.12.7/include/epicsTime.h
+devBusyAsyn.obj : d:\epics\base-3.14.12.7/include/caeventmask.h
+devBusyAsyn.obj : d:\epics\base-3.14.12.7/include/dbFldTypes.h
+devBusyAsyn.obj : d:\epics\base-3.14.12.7/include/dbBase.h
+devBusyAsyn.obj : d:\epics\base-3.14.12.7/include/dbAddr.h
+devBusyAsyn.obj : d:\epics\base-3.14.12.7/include/dbLock.h
+devBusyAsyn.obj : d:\epics\base-3.14.12.7/include/dbAccessDefs.h
+devBusyAsyn.obj : d:\epics\base-3.14.12.7/include/dbCa.h
+devBusyAsyn.obj : d:\epics\base-3.14.12.7/include/db_field_log.h
+devBusyAsyn.obj : d:\epics\base-3.14.12.7/include/errMdef.h
+devBusyAsyn.obj : d:\epics\base-3.14.12.7/include/errlog.h
+devBusyAsyn.obj : d:\epics\base-3.14.12.7/include/epicsAssert.h
+devBusyAsyn.obj : d:\epics\base-3.14.12.7/include/compilerDependencies.h
+devBusyAsyn.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdMutex.h
+devBusyAsyn.obj : d:\epics\base-3.14.12.7/include/epicsEvent.h
+devBusyAsyn.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdThread.h
+devBusyAsyn.obj : d:\epics\base-3.14.12.7/include/ellLib.h
+devBusyAsyn.obj : d:\epics\base-3.14.12.7/include/menuScan.h
+devBusyAsyn.obj : d:\epics\base-3.14.12.7/include/epicsStdio.h
+devBusyAsyn.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdTime.h
+devBusyAsyn.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdEvent.h
+
+

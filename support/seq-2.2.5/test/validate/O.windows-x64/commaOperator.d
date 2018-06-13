@@ -1,0 +1,51 @@
+# DO NOT EDIT: This file created by mkmf.pl,v 1.5 2002/03/25 21:33:24 jba Exp $ 
+
+commaOperator.obj : ../../../include/seq_snc.h
+commaOperator.obj : ../testSupport.h
+commaOperator.obj : ../seqMain.c
+commaOperator.obj : d:\epics\base-3.14.12.7/include/epicsExport.h
+commaOperator.obj : d:\epics\base-3.14.12.7/include/shareLib.h
+commaOperator.obj : ../../../include/seqCom.h
+commaOperator.obj : ../../../include/seq_prim_types.h
+commaOperator.obj : ../../../include/seq_mask.h
+commaOperator.obj : d:\epics\base-3.14.12.7/include/epicsThread.h
+commaOperator.obj : d:\epics\base-3.14.12.7/include/epicsMutex.h
+commaOperator.obj : d:\epics\base-3.14.12.7/include/epicsUnitTest.h
+commaOperator.obj : d:\epics\base-3.14.12.7/include/registryFunction.h
+commaOperator.obj : d:\epics\base-3.14.12.7/include/epicsExit.h
+commaOperator.obj : d:\epics\base-3.14.12.7/include/epicsStdio.h
+commaOperator.obj : d:\epics\base-3.14.12.7/include/dbStaticLib.h
+commaOperator.obj : d:\epics\base-3.14.12.7/include/subRecord.h
+commaOperator.obj : d:\epics\base-3.14.12.7/include/dbAccess.h
+commaOperator.obj : d:\epics\base-3.14.12.7/include/asDbLib.h
+commaOperator.obj : d:\epics\base-3.14.12.7/include/iocInit.h
+commaOperator.obj : d:\epics\base-3.14.12.7/include/iocsh.h
+commaOperator.obj : d:\epics\base-3.14.12.7/include/errlog.h
+commaOperator.obj : d:\epics\base-3.14.12.7/include/epicsTypes.h
+commaOperator.obj : d:\epics\base-3.14.12.7/include/epicsTime.h
+commaOperator.obj : ../../../include/pvAlarm.h
+commaOperator.obj : ../../../include/seq_release.h
+commaOperator.obj : d:\epics\base-3.14.12.7/include/epicsEvent.h
+commaOperator.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdThread.h
+commaOperator.obj : d:\epics\base-3.14.12.7/include/epicsAssert.h
+commaOperator.obj : d:\epics\base-3.14.12.7/include/compilerDependencies.h
+commaOperator.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdMutex.h
+commaOperator.obj : d:\epics\base-3.14.12.7/include/dbFldTypes.h
+commaOperator.obj : d:\epics\base-3.14.12.7/include/dbBase.h
+commaOperator.obj : d:\epics\base-3.14.12.7/include/link.h
+commaOperator.obj : d:\epics\base-3.14.12.7/include/errMdef.h
+commaOperator.obj : d:\epics\base-3.14.12.7/include/cantProceed.h
+commaOperator.obj : d:\epics\base-3.14.12.7/include/ellLib.h
+commaOperator.obj : d:\epics\base-3.14.12.7/include/dbDefs.h
+commaOperator.obj : d:\epics\base-3.14.12.7/include/caeventmask.h
+commaOperator.obj : d:\epics\base-3.14.12.7/include/dbAddr.h
+commaOperator.obj : d:\epics\base-3.14.12.7/include/dbLock.h
+commaOperator.obj : d:\epics\base-3.14.12.7/include/dbAccessDefs.h
+commaOperator.obj : d:\epics\base-3.14.12.7/include/dbCa.h
+commaOperator.obj : d:\epics\base-3.14.12.7/include/dbCommon.h
+commaOperator.obj : d:\epics\base-3.14.12.7/include/db_field_log.h
+commaOperator.obj : d:\epics\base-3.14.12.7/include/callback.h
+commaOperator.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdTime.h
+commaOperator.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdEvent.h
+
+

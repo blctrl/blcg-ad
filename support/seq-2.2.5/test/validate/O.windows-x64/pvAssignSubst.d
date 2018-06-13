@@ -1,0 +1,51 @@
+# DO NOT EDIT: This file created by mkmf.pl,v 1.5 2002/03/25 21:33:24 jba Exp $ 
+
+pvAssignSubst.obj : ../../../include/seq_snc.h
+pvAssignSubst.obj : ../testSupport.h
+pvAssignSubst.obj : ../seqMain.c
+pvAssignSubst.obj : d:\epics\base-3.14.12.7/include/epicsExport.h
+pvAssignSubst.obj : d:\epics\base-3.14.12.7/include/shareLib.h
+pvAssignSubst.obj : ../../../include/seqCom.h
+pvAssignSubst.obj : ../../../include/seq_prim_types.h
+pvAssignSubst.obj : ../../../include/seq_mask.h
+pvAssignSubst.obj : d:\epics\base-3.14.12.7/include/epicsThread.h
+pvAssignSubst.obj : d:\epics\base-3.14.12.7/include/epicsMutex.h
+pvAssignSubst.obj : d:\epics\base-3.14.12.7/include/epicsUnitTest.h
+pvAssignSubst.obj : d:\epics\base-3.14.12.7/include/registryFunction.h
+pvAssignSubst.obj : d:\epics\base-3.14.12.7/include/epicsExit.h
+pvAssignSubst.obj : d:\epics\base-3.14.12.7/include/epicsStdio.h
+pvAssignSubst.obj : d:\epics\base-3.14.12.7/include/dbStaticLib.h
+pvAssignSubst.obj : d:\epics\base-3.14.12.7/include/subRecord.h
+pvAssignSubst.obj : d:\epics\base-3.14.12.7/include/dbAccess.h
+pvAssignSubst.obj : d:\epics\base-3.14.12.7/include/asDbLib.h
+pvAssignSubst.obj : d:\epics\base-3.14.12.7/include/iocInit.h
+pvAssignSubst.obj : d:\epics\base-3.14.12.7/include/iocsh.h
+pvAssignSubst.obj : d:\epics\base-3.14.12.7/include/errlog.h
+pvAssignSubst.obj : d:\epics\base-3.14.12.7/include/epicsTypes.h
+pvAssignSubst.obj : d:\epics\base-3.14.12.7/include/epicsTime.h
+pvAssignSubst.obj : ../../../include/pvAlarm.h
+pvAssignSubst.obj : ../../../include/seq_release.h
+pvAssignSubst.obj : d:\epics\base-3.14.12.7/include/epicsEvent.h
+pvAssignSubst.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdThread.h
+pvAssignSubst.obj : d:\epics\base-3.14.12.7/include/epicsAssert.h
+pvAssignSubst.obj : d:\epics\base-3.14.12.7/include/compilerDependencies.h
+pvAssignSubst.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdMutex.h
+pvAssignSubst.obj : d:\epics\base-3.14.12.7/include/dbFldTypes.h
+pvAssignSubst.obj : d:\epics\base-3.14.12.7/include/dbBase.h
+pvAssignSubst.obj : d:\epics\base-3.14.12.7/include/link.h
+pvAssignSubst.obj : d:\epics\base-3.14.12.7/include/errMdef.h
+pvAssignSubst.obj : d:\epics\base-3.14.12.7/include/cantProceed.h
+pvAssignSubst.obj : d:\epics\base-3.14.12.7/include/ellLib.h
+pvAssignSubst.obj : d:\epics\base-3.14.12.7/include/dbDefs.h
+pvAssignSubst.obj : d:\epics\base-3.14.12.7/include/caeventmask.h
+pvAssignSubst.obj : d:\epics\base-3.14.12.7/include/dbAddr.h
+pvAssignSubst.obj : d:\epics\base-3.14.12.7/include/dbLock.h
+pvAssignSubst.obj : d:\epics\base-3.14.12.7/include/dbAccessDefs.h
+pvAssignSubst.obj : d:\epics\base-3.14.12.7/include/dbCa.h
+pvAssignSubst.obj : d:\epics\base-3.14.12.7/include/dbCommon.h
+pvAssignSubst.obj : d:\epics\base-3.14.12.7/include/db_field_log.h
+pvAssignSubst.obj : d:\epics\base-3.14.12.7/include/callback.h
+pvAssignSubst.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdTime.h
+pvAssignSubst.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdEvent.h
+
+

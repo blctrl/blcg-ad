@@ -1,0 +1,51 @@
+# DO NOT EDIT: This file created by mkmf.pl,v 1.5 2002/03/25 21:33:24 jba Exp $ 
+
+pvGet.obj : ../../../include/seq_snc.h
+pvGet.obj : ../testSupport.h
+pvGet.obj : ../seqMain.c
+pvGet.obj : d:\epics\base-3.14.12.7/include/epicsExport.h
+pvGet.obj : d:\epics\base-3.14.12.7/include/shareLib.h
+pvGet.obj : ../../../include/seqCom.h
+pvGet.obj : ../../../include/seq_prim_types.h
+pvGet.obj : ../../../include/seq_mask.h
+pvGet.obj : d:\epics\base-3.14.12.7/include/epicsThread.h
+pvGet.obj : d:\epics\base-3.14.12.7/include/epicsMutex.h
+pvGet.obj : d:\epics\base-3.14.12.7/include/epicsUnitTest.h
+pvGet.obj : d:\epics\base-3.14.12.7/include/registryFunction.h
+pvGet.obj : d:\epics\base-3.14.12.7/include/epicsExit.h
+pvGet.obj : d:\epics\base-3.14.12.7/include/epicsStdio.h
+pvGet.obj : d:\epics\base-3.14.12.7/include/dbStaticLib.h
+pvGet.obj : d:\epics\base-3.14.12.7/include/subRecord.h
+pvGet.obj : d:\epics\base-3.14.12.7/include/dbAccess.h
+pvGet.obj : d:\epics\base-3.14.12.7/include/asDbLib.h
+pvGet.obj : d:\epics\base-3.14.12.7/include/iocInit.h
+pvGet.obj : d:\epics\base-3.14.12.7/include/iocsh.h
+pvGet.obj : d:\epics\base-3.14.12.7/include/errlog.h
+pvGet.obj : d:\epics\base-3.14.12.7/include/epicsTypes.h
+pvGet.obj : d:\epics\base-3.14.12.7/include/epicsTime.h
+pvGet.obj : ../../../include/pvAlarm.h
+pvGet.obj : ../../../include/seq_release.h
+pvGet.obj : d:\epics\base-3.14.12.7/include/epicsEvent.h
+pvGet.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdThread.h
+pvGet.obj : d:\epics\base-3.14.12.7/include/epicsAssert.h
+pvGet.obj : d:\epics\base-3.14.12.7/include/compilerDependencies.h
+pvGet.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdMutex.h
+pvGet.obj : d:\epics\base-3.14.12.7/include/dbFldTypes.h
+pvGet.obj : d:\epics\base-3.14.12.7/include/dbBase.h
+pvGet.obj : d:\epics\base-3.14.12.7/include/link.h
+pvGet.obj : d:\epics\base-3.14.12.7/include/errMdef.h
+pvGet.obj : d:\epics\base-3.14.12.7/include/cantProceed.h
+pvGet.obj : d:\epics\base-3.14.12.7/include/ellLib.h
+pvGet.obj : d:\epics\base-3.14.12.7/include/dbDefs.h
+pvGet.obj : d:\epics\base-3.14.12.7/include/caeventmask.h
+pvGet.obj : d:\epics\base-3.14.12.7/include/dbAddr.h
+pvGet.obj : d:\epics\base-3.14.12.7/include/dbLock.h
+pvGet.obj : d:\epics\base-3.14.12.7/include/dbAccessDefs.h
+pvGet.obj : d:\epics\base-3.14.12.7/include/dbCa.h
+pvGet.obj : d:\epics\base-3.14.12.7/include/dbCommon.h
+pvGet.obj : d:\epics\base-3.14.12.7/include/db_field_log.h
+pvGet.obj : d:\epics\base-3.14.12.7/include/callback.h
+pvGet.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdTime.h
+pvGet.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdEvent.h
+
+

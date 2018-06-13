@@ -1,0 +1,51 @@
+# DO NOT EDIT: This file created by mkmf.pl,v 1.5 2002/03/25 21:33:24 jba Exp $ 
+
+bittypes.obj : ../../../include/seq_snc.h
+bittypes.obj : ../testSupport.h
+bittypes.obj : ../seqMain.c
+bittypes.obj : d:\epics\base-3.14.12.7/include/epicsExport.h
+bittypes.obj : d:\epics\base-3.14.12.7/include/shareLib.h
+bittypes.obj : ../../../include/seqCom.h
+bittypes.obj : ../../../include/seq_prim_types.h
+bittypes.obj : ../../../include/seq_mask.h
+bittypes.obj : d:\epics\base-3.14.12.7/include/epicsThread.h
+bittypes.obj : d:\epics\base-3.14.12.7/include/epicsMutex.h
+bittypes.obj : d:\epics\base-3.14.12.7/include/epicsUnitTest.h
+bittypes.obj : d:\epics\base-3.14.12.7/include/registryFunction.h
+bittypes.obj : d:\epics\base-3.14.12.7/include/epicsExit.h
+bittypes.obj : d:\epics\base-3.14.12.7/include/epicsStdio.h
+bittypes.obj : d:\epics\base-3.14.12.7/include/dbStaticLib.h
+bittypes.obj : d:\epics\base-3.14.12.7/include/subRecord.h
+bittypes.obj : d:\epics\base-3.14.12.7/include/dbAccess.h
+bittypes.obj : d:\epics\base-3.14.12.7/include/asDbLib.h
+bittypes.obj : d:\epics\base-3.14.12.7/include/iocInit.h
+bittypes.obj : d:\epics\base-3.14.12.7/include/iocsh.h
+bittypes.obj : d:\epics\base-3.14.12.7/include/errlog.h
+bittypes.obj : d:\epics\base-3.14.12.7/include/epicsTypes.h
+bittypes.obj : d:\epics\base-3.14.12.7/include/epicsTime.h
+bittypes.obj : ../../../include/pvAlarm.h
+bittypes.obj : ../../../include/seq_release.h
+bittypes.obj : d:\epics\base-3.14.12.7/include/epicsEvent.h
+bittypes.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdThread.h
+bittypes.obj : d:\epics\base-3.14.12.7/include/epicsAssert.h
+bittypes.obj : d:\epics\base-3.14.12.7/include/compilerDependencies.h
+bittypes.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdMutex.h
+bittypes.obj : d:\epics\base-3.14.12.7/include/dbFldTypes.h
+bittypes.obj : d:\epics\base-3.14.12.7/include/dbBase.h
+bittypes.obj : d:\epics\base-3.14.12.7/include/link.h
+bittypes.obj : d:\epics\base-3.14.12.7/include/errMdef.h
+bittypes.obj : d:\epics\base-3.14.12.7/include/cantProceed.h
+bittypes.obj : d:\epics\base-3.14.12.7/include/ellLib.h
+bittypes.obj : d:\epics\base-3.14.12.7/include/dbDefs.h
+bittypes.obj : d:\epics\base-3.14.12.7/include/caeventmask.h
+bittypes.obj : d:\epics\base-3.14.12.7/include/dbAddr.h
+bittypes.obj : d:\epics\base-3.14.12.7/include/dbLock.h
+bittypes.obj : d:\epics\base-3.14.12.7/include/dbAccessDefs.h
+bittypes.obj : d:\epics\base-3.14.12.7/include/dbCa.h
+bittypes.obj : d:\epics\base-3.14.12.7/include/dbCommon.h
+bittypes.obj : d:\epics\base-3.14.12.7/include/db_field_log.h
+bittypes.obj : d:\epics\base-3.14.12.7/include/callback.h
+bittypes.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdTime.h
+bittypes.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdEvent.h
+
+

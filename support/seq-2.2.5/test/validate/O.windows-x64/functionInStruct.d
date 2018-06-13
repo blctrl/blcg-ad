@@ -1,0 +1,51 @@
+# DO NOT EDIT: This file created by mkmf.pl,v 1.5 2002/03/25 21:33:24 jba Exp $ 
+
+functionInStruct.obj : ../../../include/seq_snc.h
+functionInStruct.obj : ../testSupport.h
+functionInStruct.obj : ../seqMain.c
+functionInStruct.obj : d:\epics\base-3.14.12.7/include/epicsExport.h
+functionInStruct.obj : d:\epics\base-3.14.12.7/include/shareLib.h
+functionInStruct.obj : ../../../include/seqCom.h
+functionInStruct.obj : ../../../include/seq_prim_types.h
+functionInStruct.obj : ../../../include/seq_mask.h
+functionInStruct.obj : d:\epics\base-3.14.12.7/include/epicsThread.h
+functionInStruct.obj : d:\epics\base-3.14.12.7/include/epicsMutex.h
+functionInStruct.obj : d:\epics\base-3.14.12.7/include/epicsUnitTest.h
+functionInStruct.obj : d:\epics\base-3.14.12.7/include/registryFunction.h
+functionInStruct.obj : d:\epics\base-3.14.12.7/include/epicsExit.h
+functionInStruct.obj : d:\epics\base-3.14.12.7/include/epicsStdio.h
+functionInStruct.obj : d:\epics\base-3.14.12.7/include/dbStaticLib.h
+functionInStruct.obj : d:\epics\base-3.14.12.7/include/subRecord.h
+functionInStruct.obj : d:\epics\base-3.14.12.7/include/dbAccess.h
+functionInStruct.obj : d:\epics\base-3.14.12.7/include/asDbLib.h
+functionInStruct.obj : d:\epics\base-3.14.12.7/include/iocInit.h
+functionInStruct.obj : d:\epics\base-3.14.12.7/include/iocsh.h
+functionInStruct.obj : d:\epics\base-3.14.12.7/include/errlog.h
+functionInStruct.obj : d:\epics\base-3.14.12.7/include/epicsTypes.h
+functionInStruct.obj : d:\epics\base-3.14.12.7/include/epicsTime.h
+functionInStruct.obj : ../../../include/pvAlarm.h
+functionInStruct.obj : ../../../include/seq_release.h
+functionInStruct.obj : d:\epics\base-3.14.12.7/include/epicsEvent.h
+functionInStruct.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdThread.h
+functionInStruct.obj : d:\epics\base-3.14.12.7/include/epicsAssert.h
+functionInStruct.obj : d:\epics\base-3.14.12.7/include/compilerDependencies.h
+functionInStruct.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdMutex.h
+functionInStruct.obj : d:\epics\base-3.14.12.7/include/dbFldTypes.h
+functionInStruct.obj : d:\epics\base-3.14.12.7/include/dbBase.h
+functionInStruct.obj : d:\epics\base-3.14.12.7/include/link.h
+functionInStruct.obj : d:\epics\base-3.14.12.7/include/errMdef.h
+functionInStruct.obj : d:\epics\base-3.14.12.7/include/cantProceed.h
+functionInStruct.obj : d:\epics\base-3.14.12.7/include/ellLib.h
+functionInStruct.obj : d:\epics\base-3.14.12.7/include/dbDefs.h
+functionInStruct.obj : d:\epics\base-3.14.12.7/include/caeventmask.h
+functionInStruct.obj : d:\epics\base-3.14.12.7/include/dbAddr.h
+functionInStruct.obj : d:\epics\base-3.14.12.7/include/dbLock.h
+functionInStruct.obj : d:\epics\base-3.14.12.7/include/dbAccessDefs.h
+functionInStruct.obj : d:\epics\base-3.14.12.7/include/dbCa.h
+functionInStruct.obj : d:\epics\base-3.14.12.7/include/dbCommon.h
+functionInStruct.obj : d:\epics\base-3.14.12.7/include/db_field_log.h
+functionInStruct.obj : d:\epics\base-3.14.12.7/include/callback.h
+functionInStruct.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdTime.h
+functionInStruct.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdEvent.h
+
+

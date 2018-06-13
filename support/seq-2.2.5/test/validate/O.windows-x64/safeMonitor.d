@@ -1,0 +1,51 @@
+# DO NOT EDIT: This file created by mkmf.pl,v 1.5 2002/03/25 21:33:24 jba Exp $ 
+
+safeMonitor.obj : ../../../include/seq_snc.h
+safeMonitor.obj : ../testSupport.h
+safeMonitor.obj : ../seqMain.c
+safeMonitor.obj : d:\epics\base-3.14.12.7/include/epicsExport.h
+safeMonitor.obj : d:\epics\base-3.14.12.7/include/shareLib.h
+safeMonitor.obj : ../../../include/seqCom.h
+safeMonitor.obj : ../../../include/seq_prim_types.h
+safeMonitor.obj : ../../../include/seq_mask.h
+safeMonitor.obj : d:\epics\base-3.14.12.7/include/epicsThread.h
+safeMonitor.obj : d:\epics\base-3.14.12.7/include/epicsMutex.h
+safeMonitor.obj : d:\epics\base-3.14.12.7/include/epicsUnitTest.h
+safeMonitor.obj : d:\epics\base-3.14.12.7/include/registryFunction.h
+safeMonitor.obj : d:\epics\base-3.14.12.7/include/epicsExit.h
+safeMonitor.obj : d:\epics\base-3.14.12.7/include/epicsStdio.h
+safeMonitor.obj : d:\epics\base-3.14.12.7/include/dbStaticLib.h
+safeMonitor.obj : d:\epics\base-3.14.12.7/include/subRecord.h
+safeMonitor.obj : d:\epics\base-3.14.12.7/include/dbAccess.h
+safeMonitor.obj : d:\epics\base-3.14.12.7/include/asDbLib.h
+safeMonitor.obj : d:\epics\base-3.14.12.7/include/iocInit.h
+safeMonitor.obj : d:\epics\base-3.14.12.7/include/iocsh.h
+safeMonitor.obj : d:\epics\base-3.14.12.7/include/errlog.h
+safeMonitor.obj : d:\epics\base-3.14.12.7/include/epicsTypes.h
+safeMonitor.obj : d:\epics\base-3.14.12.7/include/epicsTime.h
+safeMonitor.obj : ../../../include/pvAlarm.h
+safeMonitor.obj : ../../../include/seq_release.h
+safeMonitor.obj : d:\epics\base-3.14.12.7/include/epicsEvent.h
+safeMonitor.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdThread.h
+safeMonitor.obj : d:\epics\base-3.14.12.7/include/epicsAssert.h
+safeMonitor.obj : d:\epics\base-3.14.12.7/include/compilerDependencies.h
+safeMonitor.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdMutex.h
+safeMonitor.obj : d:\epics\base-3.14.12.7/include/dbFldTypes.h
+safeMonitor.obj : d:\epics\base-3.14.12.7/include/dbBase.h
+safeMonitor.obj : d:\epics\base-3.14.12.7/include/link.h
+safeMonitor.obj : d:\epics\base-3.14.12.7/include/errMdef.h
+safeMonitor.obj : d:\epics\base-3.14.12.7/include/cantProceed.h
+safeMonitor.obj : d:\epics\base-3.14.12.7/include/ellLib.h
+safeMonitor.obj : d:\epics\base-3.14.12.7/include/dbDefs.h
+safeMonitor.obj : d:\epics\base-3.14.12.7/include/caeventmask.h
+safeMonitor.obj : d:\epics\base-3.14.12.7/include/dbAddr.h
+safeMonitor.obj : d:\epics\base-3.14.12.7/include/dbLock.h
+safeMonitor.obj : d:\epics\base-3.14.12.7/include/dbAccessDefs.h
+safeMonitor.obj : d:\epics\base-3.14.12.7/include/dbCa.h
+safeMonitor.obj : d:\epics\base-3.14.12.7/include/dbCommon.h
+safeMonitor.obj : d:\epics\base-3.14.12.7/include/db_field_log.h
+safeMonitor.obj : d:\epics\base-3.14.12.7/include/callback.h
+safeMonitor.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdTime.h
+safeMonitor.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdEvent.h
+
+

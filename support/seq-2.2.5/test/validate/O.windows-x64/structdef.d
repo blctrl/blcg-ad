@@ -1,0 +1,51 @@
+# DO NOT EDIT: This file created by mkmf.pl,v 1.5 2002/03/25 21:33:24 jba Exp $ 
+
+structdef.obj : ../../../include/seq_snc.h
+structdef.obj : ../testSupport.h
+structdef.obj : ../seqMain.c
+structdef.obj : d:\epics\base-3.14.12.7/include/epicsExport.h
+structdef.obj : d:\epics\base-3.14.12.7/include/shareLib.h
+structdef.obj : ../../../include/seqCom.h
+structdef.obj : ../../../include/seq_prim_types.h
+structdef.obj : ../../../include/seq_mask.h
+structdef.obj : d:\epics\base-3.14.12.7/include/epicsThread.h
+structdef.obj : d:\epics\base-3.14.12.7/include/epicsMutex.h
+structdef.obj : d:\epics\base-3.14.12.7/include/epicsUnitTest.h
+structdef.obj : d:\epics\base-3.14.12.7/include/registryFunction.h
+structdef.obj : d:\epics\base-3.14.12.7/include/epicsExit.h
+structdef.obj : d:\epics\base-3.14.12.7/include/epicsStdio.h
+structdef.obj : d:\epics\base-3.14.12.7/include/dbStaticLib.h
+structdef.obj : d:\epics\base-3.14.12.7/include/subRecord.h
+structdef.obj : d:\epics\base-3.14.12.7/include/dbAccess.h
+structdef.obj : d:\epics\base-3.14.12.7/include/asDbLib.h
+structdef.obj : d:\epics\base-3.14.12.7/include/iocInit.h
+structdef.obj : d:\epics\base-3.14.12.7/include/iocsh.h
+structdef.obj : d:\epics\base-3.14.12.7/include/errlog.h
+structdef.obj : d:\epics\base-3.14.12.7/include/epicsTypes.h
+structdef.obj : d:\epics\base-3.14.12.7/include/epicsTime.h
+structdef.obj : ../../../include/pvAlarm.h
+structdef.obj : ../../../include/seq_release.h
+structdef.obj : d:\epics\base-3.14.12.7/include/epicsEvent.h
+structdef.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdThread.h
+structdef.obj : d:\epics\base-3.14.12.7/include/epicsAssert.h
+structdef.obj : d:\epics\base-3.14.12.7/include/compilerDependencies.h
+structdef.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdMutex.h
+structdef.obj : d:\epics\base-3.14.12.7/include/dbFldTypes.h
+structdef.obj : d:\epics\base-3.14.12.7/include/dbBase.h
+structdef.obj : d:\epics\base-3.14.12.7/include/link.h
+structdef.obj : d:\epics\base-3.14.12.7/include/errMdef.h
+structdef.obj : d:\epics\base-3.14.12.7/include/cantProceed.h
+structdef.obj : d:\epics\base-3.14.12.7/include/ellLib.h
+structdef.obj : d:\epics\base-3.14.12.7/include/dbDefs.h
+structdef.obj : d:\epics\base-3.14.12.7/include/caeventmask.h
+structdef.obj : d:\epics\base-3.14.12.7/include/dbAddr.h
+structdef.obj : d:\epics\base-3.14.12.7/include/dbLock.h
+structdef.obj : d:\epics\base-3.14.12.7/include/dbAccessDefs.h
+structdef.obj : d:\epics\base-3.14.12.7/include/dbCa.h
+structdef.obj : d:\epics\base-3.14.12.7/include/dbCommon.h
+structdef.obj : d:\epics\base-3.14.12.7/include/db_field_log.h
+structdef.obj : d:\epics\base-3.14.12.7/include/callback.h
+structdef.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdTime.h
+structdef.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdEvent.h
+
+

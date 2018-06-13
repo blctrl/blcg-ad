@@ -1,0 +1,50 @@
+# DO NOT EDIT: This file created by mkmf.pl,v 1.5 2002/03/25 21:33:24 jba Exp $ 
+
+../O.Common/vxTestHarness.dbd : d:\epics\base-3.14.12.7/dbd/base.dbd
+../O.Common/vxTestHarness.dbd : ../O.Common/vxTestHarnessRegistrars.dbd
+../O.Common/vxTestHarness.dbd : d:\epics\base-3.14.12.7/dbd/menuGlobal.dbd
+../O.Common/vxTestHarness.dbd : d:\epics\base-3.14.12.7/dbd/menuConvert.dbd
+../O.Common/vxTestHarness.dbd : d:\epics\base-3.14.12.7/dbd/aaiRecord.dbd
+../O.Common/vxTestHarness.dbd : d:\epics\base-3.14.12.7/dbd/aaoRecord.dbd
+../O.Common/vxTestHarness.dbd : d:\epics\base-3.14.12.7/dbd/aiRecord.dbd
+../O.Common/vxTestHarness.dbd : d:\epics\base-3.14.12.7/dbd/aoRecord.dbd
+../O.Common/vxTestHarness.dbd : d:\epics\base-3.14.12.7/dbd/aSubRecord.dbd
+../O.Common/vxTestHarness.dbd : d:\epics\base-3.14.12.7/dbd/biRecord.dbd
+../O.Common/vxTestHarness.dbd : d:\epics\base-3.14.12.7/dbd/boRecord.dbd
+../O.Common/vxTestHarness.dbd : d:\epics\base-3.14.12.7/dbd/calcRecord.dbd
+../O.Common/vxTestHarness.dbd : d:\epics\base-3.14.12.7/dbd/calcoutRecord.dbd
+../O.Common/vxTestHarness.dbd : d:\epics\base-3.14.12.7/dbd/compressRecord.dbd
+../O.Common/vxTestHarness.dbd : d:\epics\base-3.14.12.7/dbd/dfanoutRecord.dbd
+../O.Common/vxTestHarness.dbd : d:\epics\base-3.14.12.7/dbd/eventRecord.dbd
+../O.Common/vxTestHarness.dbd : d:\epics\base-3.14.12.7/dbd/fanoutRecord.dbd
+../O.Common/vxTestHarness.dbd : d:\epics\base-3.14.12.7/dbd/longinRecord.dbd
+../O.Common/vxTestHarness.dbd : d:\epics\base-3.14.12.7/dbd/longoutRecord.dbd
+../O.Common/vxTestHarness.dbd : d:\epics\base-3.14.12.7/dbd/mbbiRecord.dbd
+../O.Common/vxTestHarness.dbd : d:\epics\base-3.14.12.7/dbd/mbbiDirectRecord.dbd
+../O.Common/vxTestHarness.dbd : d:\epics\base-3.14.12.7/dbd/mbboRecord.dbd
+../O.Common/vxTestHarness.dbd : d:\epics\base-3.14.12.7/dbd/mbboDirectRecord.dbd
+../O.Common/vxTestHarness.dbd : d:\epics\base-3.14.12.7/dbd/permissiveRecord.dbd
+../O.Common/vxTestHarness.dbd : d:\epics\base-3.14.12.7/dbd/selRecord.dbd
+../O.Common/vxTestHarness.dbd : d:\epics\base-3.14.12.7/dbd/seqRecord.dbd
+../O.Common/vxTestHarness.dbd : d:\epics\base-3.14.12.7/dbd/stateRecord.dbd
+../O.Common/vxTestHarness.dbd : d:\epics\base-3.14.12.7/dbd/stringinRecord.dbd
+../O.Common/vxTestHarness.dbd : d:\epics\base-3.14.12.7/dbd/stringoutRecord.dbd
+../O.Common/vxTestHarness.dbd : d:\epics\base-3.14.12.7/dbd/subRecord.dbd
+../O.Common/vxTestHarness.dbd : d:\epics\base-3.14.12.7/dbd/subArrayRecord.dbd
+../O.Common/vxTestHarness.dbd : d:\epics\base-3.14.12.7/dbd/waveformRecord.dbd
+../O.Common/vxTestHarness.dbd : d:\epics\base-3.14.12.7/dbd/devSoft.dbd
+../O.Common/vxTestHarness.dbd : d:\epics\base-3.14.12.7/dbd/menuAlarmSevr.dbd
+../O.Common/vxTestHarness.dbd : d:\epics\base-3.14.12.7/dbd/menuAlarmStat.dbd
+../O.Common/vxTestHarness.dbd : d:\epics\base-3.14.12.7/dbd/menuCompress.dbd
+../O.Common/vxTestHarness.dbd : d:\epics\base-3.14.12.7/dbd/menuFtype.dbd
+../O.Common/vxTestHarness.dbd : d:\epics\base-3.14.12.7/dbd/menuIvoa.dbd
+../O.Common/vxTestHarness.dbd : d:\epics\base-3.14.12.7/dbd/menuOmsl.dbd
+../O.Common/vxTestHarness.dbd : d:\epics\base-3.14.12.7/dbd/menuPini.dbd
+../O.Common/vxTestHarness.dbd : d:\epics\base-3.14.12.7/dbd/menuPriority.dbd
+../O.Common/vxTestHarness.dbd : d:\epics\base-3.14.12.7/dbd/menuScan.dbd
+../O.Common/vxTestHarness.dbd : d:\epics\base-3.14.12.7/dbd/menuSimm.dbd
+../O.Common/vxTestHarness.dbd : d:\epics\base-3.14.12.7/dbd/menuYesNo.dbd
+../O.Common/vxTestHarness.dbd : d:\epics\base-3.14.12.7/dbd/dbCommon.dbd
+
+
+"../O.Common/vxTestHarnessInclude.dbd : ../Makefile" 

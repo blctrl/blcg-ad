@@ -1,0 +1,7 @@
+# RELEASE - Location of external products
+
+# You should do a "gnumake clean uninstall install" in the application
+# top directory each time changes are made to this file
+
+include $(TOP)/../../release.local
+#-include $(TOP)/../configure/EPICS_BASE.$(EPICS_HOST_ARCH)

@@ -1,0 +1,3 @@
+EPICS_BASE=/home/blctrl/epics/base
+SUPPORT=/home/blctrl/epics/apps/ad/support
+

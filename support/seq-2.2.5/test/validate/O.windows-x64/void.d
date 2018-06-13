@@ -1,0 +1,51 @@
+# DO NOT EDIT: This file created by mkmf.pl,v 1.5 2002/03/25 21:33:24 jba Exp $ 
+
+void.obj : ../../../include/seq_snc.h
+void.obj : ../testSupport.h
+void.obj : ../seqMain.c
+void.obj : d:\epics\base-3.14.12.7/include/epicsExport.h
+void.obj : d:\epics\base-3.14.12.7/include/shareLib.h
+void.obj : ../../../include/seqCom.h
+void.obj : ../../../include/seq_prim_types.h
+void.obj : ../../../include/seq_mask.h
+void.obj : d:\epics\base-3.14.12.7/include/epicsThread.h
+void.obj : d:\epics\base-3.14.12.7/include/epicsMutex.h
+void.obj : d:\epics\base-3.14.12.7/include/epicsUnitTest.h
+void.obj : d:\epics\base-3.14.12.7/include/registryFunction.h
+void.obj : d:\epics\base-3.14.12.7/include/epicsExit.h
+void.obj : d:\epics\base-3.14.12.7/include/epicsStdio.h
+void.obj : d:\epics\base-3.14.12.7/include/dbStaticLib.h
+void.obj : d:\epics\base-3.14.12.7/include/subRecord.h
+void.obj : d:\epics\base-3.14.12.7/include/dbAccess.h
+void.obj : d:\epics\base-3.14.12.7/include/asDbLib.h
+void.obj : d:\epics\base-3.14.12.7/include/iocInit.h
+void.obj : d:\epics\base-3.14.12.7/include/iocsh.h
+void.obj : d:\epics\base-3.14.12.7/include/errlog.h
+void.obj : d:\epics\base-3.14.12.7/include/epicsTypes.h
+void.obj : d:\epics\base-3.14.12.7/include/epicsTime.h
+void.obj : ../../../include/pvAlarm.h
+void.obj : ../../../include/seq_release.h
+void.obj : d:\epics\base-3.14.12.7/include/epicsEvent.h
+void.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdThread.h
+void.obj : d:\epics\base-3.14.12.7/include/epicsAssert.h
+void.obj : d:\epics\base-3.14.12.7/include/compilerDependencies.h
+void.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdMutex.h
+void.obj : d:\epics\base-3.14.12.7/include/dbFldTypes.h
+void.obj : d:\epics\base-3.14.12.7/include/dbBase.h
+void.obj : d:\epics\base-3.14.12.7/include/link.h
+void.obj : d:\epics\base-3.14.12.7/include/errMdef.h
+void.obj : d:\epics\base-3.14.12.7/include/cantProceed.h
+void.obj : d:\epics\base-3.14.12.7/include/ellLib.h
+void.obj : d:\epics\base-3.14.12.7/include/dbDefs.h
+void.obj : d:\epics\base-3.14.12.7/include/caeventmask.h
+void.obj : d:\epics\base-3.14.12.7/include/dbAddr.h
+void.obj : d:\epics\base-3.14.12.7/include/dbLock.h
+void.obj : d:\epics\base-3.14.12.7/include/dbAccessDefs.h
+void.obj : d:\epics\base-3.14.12.7/include/dbCa.h
+void.obj : d:\epics\base-3.14.12.7/include/dbCommon.h
+void.obj : d:\epics\base-3.14.12.7/include/db_field_log.h
+void.obj : d:\epics\base-3.14.12.7/include/callback.h
+void.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdTime.h
+void.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdEvent.h
+
+

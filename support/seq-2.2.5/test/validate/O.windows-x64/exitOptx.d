@@ -1,0 +1,51 @@
+# DO NOT EDIT: This file created by mkmf.pl,v 1.5 2002/03/25 21:33:24 jba Exp $ 
+
+exitOptx.obj : ../../../include/seq_snc.h
+exitOptx.obj : ../testSupport.h
+exitOptx.obj : ../seqMain.c
+exitOptx.obj : d:\epics\base-3.14.12.7/include/epicsExport.h
+exitOptx.obj : d:\epics\base-3.14.12.7/include/shareLib.h
+exitOptx.obj : ../../../include/seqCom.h
+exitOptx.obj : ../../../include/seq_prim_types.h
+exitOptx.obj : ../../../include/seq_mask.h
+exitOptx.obj : d:\epics\base-3.14.12.7/include/epicsThread.h
+exitOptx.obj : d:\epics\base-3.14.12.7/include/epicsMutex.h
+exitOptx.obj : d:\epics\base-3.14.12.7/include/epicsUnitTest.h
+exitOptx.obj : d:\epics\base-3.14.12.7/include/registryFunction.h
+exitOptx.obj : d:\epics\base-3.14.12.7/include/epicsExit.h
+exitOptx.obj : d:\epics\base-3.14.12.7/include/epicsStdio.h
+exitOptx.obj : d:\epics\base-3.14.12.7/include/dbStaticLib.h
+exitOptx.obj : d:\epics\base-3.14.12.7/include/subRecord.h
+exitOptx.obj : d:\epics\base-3.14.12.7/include/dbAccess.h
+exitOptx.obj : d:\epics\base-3.14.12.7/include/asDbLib.h
+exitOptx.obj : d:\epics\base-3.14.12.7/include/iocInit.h
+exitOptx.obj : d:\epics\base-3.14.12.7/include/iocsh.h
+exitOptx.obj : d:\epics\base-3.14.12.7/include/errlog.h
+exitOptx.obj : d:\epics\base-3.14.12.7/include/epicsTypes.h
+exitOptx.obj : d:\epics\base-3.14.12.7/include/epicsTime.h
+exitOptx.obj : ../../../include/pvAlarm.h
+exitOptx.obj : ../../../include/seq_release.h
+exitOptx.obj : d:\epics\base-3.14.12.7/include/epicsEvent.h
+exitOptx.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdThread.h
+exitOptx.obj : d:\epics\base-3.14.12.7/include/epicsAssert.h
+exitOptx.obj : d:\epics\base-3.14.12.7/include/compilerDependencies.h
+exitOptx.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdMutex.h
+exitOptx.obj : d:\epics\base-3.14.12.7/include/dbFldTypes.h
+exitOptx.obj : d:\epics\base-3.14.12.7/include/dbBase.h
+exitOptx.obj : d:\epics\base-3.14.12.7/include/link.h
+exitOptx.obj : d:\epics\base-3.14.12.7/include/errMdef.h
+exitOptx.obj : d:\epics\base-3.14.12.7/include/cantProceed.h
+exitOptx.obj : d:\epics\base-3.14.12.7/include/ellLib.h
+exitOptx.obj : d:\epics\base-3.14.12.7/include/dbDefs.h
+exitOptx.obj : d:\epics\base-3.14.12.7/include/caeventmask.h
+exitOptx.obj : d:\epics\base-3.14.12.7/include/dbAddr.h
+exitOptx.obj : d:\epics\base-3.14.12.7/include/dbLock.h
+exitOptx.obj : d:\epics\base-3.14.12.7/include/dbAccessDefs.h
+exitOptx.obj : d:\epics\base-3.14.12.7/include/dbCa.h
+exitOptx.obj : d:\epics\base-3.14.12.7/include/dbCommon.h
+exitOptx.obj : d:\epics\base-3.14.12.7/include/db_field_log.h
+exitOptx.obj : d:\epics\base-3.14.12.7/include/callback.h
+exitOptx.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdTime.h
+exitOptx.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdEvent.h
+
+

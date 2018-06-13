@@ -1,0 +1,51 @@
+# DO NOT EDIT: This file created by mkmf.pl,v 1.5 2002/03/25 21:33:24 jba Exp $ 
+
+userfunc.obj : ../../../include/seq_snc.h
+userfunc.obj : ../testSupport.h
+userfunc.obj : ../seqMain.c
+userfunc.obj : d:\epics\base-3.14.12.7/include/epicsExport.h
+userfunc.obj : d:\epics\base-3.14.12.7/include/shareLib.h
+userfunc.obj : ../../../include/seqCom.h
+userfunc.obj : ../../../include/seq_prim_types.h
+userfunc.obj : ../../../include/seq_mask.h
+userfunc.obj : d:\epics\base-3.14.12.7/include/epicsThread.h
+userfunc.obj : d:\epics\base-3.14.12.7/include/epicsMutex.h
+userfunc.obj : d:\epics\base-3.14.12.7/include/epicsUnitTest.h
+userfunc.obj : d:\epics\base-3.14.12.7/include/registryFunction.h
+userfunc.obj : d:\epics\base-3.14.12.7/include/epicsExit.h
+userfunc.obj : d:\epics\base-3.14.12.7/include/epicsStdio.h
+userfunc.obj : d:\epics\base-3.14.12.7/include/dbStaticLib.h
+userfunc.obj : d:\epics\base-3.14.12.7/include/subRecord.h
+userfunc.obj : d:\epics\base-3.14.12.7/include/dbAccess.h
+userfunc.obj : d:\epics\base-3.14.12.7/include/asDbLib.h
+userfunc.obj : d:\epics\base-3.14.12.7/include/iocInit.h
+userfunc.obj : d:\epics\base-3.14.12.7/include/iocsh.h
+userfunc.obj : d:\epics\base-3.14.12.7/include/errlog.h
+userfunc.obj : d:\epics\base-3.14.12.7/include/epicsTypes.h
+userfunc.obj : d:\epics\base-3.14.12.7/include/epicsTime.h
+userfunc.obj : ../../../include/pvAlarm.h
+userfunc.obj : ../../../include/seq_release.h
+userfunc.obj : d:\epics\base-3.14.12.7/include/epicsEvent.h
+userfunc.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdThread.h
+userfunc.obj : d:\epics\base-3.14.12.7/include/epicsAssert.h
+userfunc.obj : d:\epics\base-3.14.12.7/include/compilerDependencies.h
+userfunc.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdMutex.h
+userfunc.obj : d:\epics\base-3.14.12.7/include/dbFldTypes.h
+userfunc.obj : d:\epics\base-3.14.12.7/include/dbBase.h
+userfunc.obj : d:\epics\base-3.14.12.7/include/link.h
+userfunc.obj : d:\epics\base-3.14.12.7/include/errMdef.h
+userfunc.obj : d:\epics\base-3.14.12.7/include/cantProceed.h
+userfunc.obj : d:\epics\base-3.14.12.7/include/ellLib.h
+userfunc.obj : d:\epics\base-3.14.12.7/include/dbDefs.h
+userfunc.obj : d:\epics\base-3.14.12.7/include/caeventmask.h
+userfunc.obj : d:\epics\base-3.14.12.7/include/dbAddr.h
+userfunc.obj : d:\epics\base-3.14.12.7/include/dbLock.h
+userfunc.obj : d:\epics\base-3.14.12.7/include/dbAccessDefs.h
+userfunc.obj : d:\epics\base-3.14.12.7/include/dbCa.h
+userfunc.obj : d:\epics\base-3.14.12.7/include/dbCommon.h
+userfunc.obj : d:\epics\base-3.14.12.7/include/db_field_log.h
+userfunc.obj : d:\epics\base-3.14.12.7/include/callback.h
+userfunc.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdTime.h
+userfunc.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdEvent.h
+
+

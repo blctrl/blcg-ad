@@ -1,0 +1,51 @@
+# DO NOT EDIT: This file created by mkmf.pl,v 1.5 2002/03/25 21:33:24 jba Exp $ 
+
+assign.obj : ../../../include/seq_snc.h
+assign.obj : ../testSupport.h
+assign.obj : ../seqMain.c
+assign.obj : d:\epics\base-3.14.12.7/include/epicsExport.h
+assign.obj : d:\epics\base-3.14.12.7/include/shareLib.h
+assign.obj : ../../../include/seqCom.h
+assign.obj : ../../../include/seq_prim_types.h
+assign.obj : ../../../include/seq_mask.h
+assign.obj : d:\epics\base-3.14.12.7/include/epicsThread.h
+assign.obj : d:\epics\base-3.14.12.7/include/epicsMutex.h
+assign.obj : d:\epics\base-3.14.12.7/include/epicsUnitTest.h
+assign.obj : d:\epics\base-3.14.12.7/include/registryFunction.h
+assign.obj : d:\epics\base-3.14.12.7/include/epicsExit.h
+assign.obj : d:\epics\base-3.14.12.7/include/epicsStdio.h
+assign.obj : d:\epics\base-3.14.12.7/include/dbStaticLib.h
+assign.obj : d:\epics\base-3.14.12.7/include/subRecord.h
+assign.obj : d:\epics\base-3.14.12.7/include/dbAccess.h
+assign.obj : d:\epics\base-3.14.12.7/include/asDbLib.h
+assign.obj : d:\epics\base-3.14.12.7/include/iocInit.h
+assign.obj : d:\epics\base-3.14.12.7/include/iocsh.h
+assign.obj : d:\epics\base-3.14.12.7/include/errlog.h
+assign.obj : d:\epics\base-3.14.12.7/include/epicsTypes.h
+assign.obj : d:\epics\base-3.14.12.7/include/epicsTime.h
+assign.obj : ../../../include/pvAlarm.h
+assign.obj : ../../../include/seq_release.h
+assign.obj : d:\epics\base-3.14.12.7/include/epicsEvent.h
+assign.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdThread.h
+assign.obj : d:\epics\base-3.14.12.7/include/epicsAssert.h
+assign.obj : d:\epics\base-3.14.12.7/include/compilerDependencies.h
+assign.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdMutex.h
+assign.obj : d:\epics\base-3.14.12.7/include/dbFldTypes.h
+assign.obj : d:\epics\base-3.14.12.7/include/dbBase.h
+assign.obj : d:\epics\base-3.14.12.7/include/link.h
+assign.obj : d:\epics\base-3.14.12.7/include/errMdef.h
+assign.obj : d:\epics\base-3.14.12.7/include/cantProceed.h
+assign.obj : d:\epics\base-3.14.12.7/include/ellLib.h
+assign.obj : d:\epics\base-3.14.12.7/include/dbDefs.h
+assign.obj : d:\epics\base-3.14.12.7/include/caeventmask.h
+assign.obj : d:\epics\base-3.14.12.7/include/dbAddr.h
+assign.obj : d:\epics\base-3.14.12.7/include/dbLock.h
+assign.obj : d:\epics\base-3.14.12.7/include/dbAccessDefs.h
+assign.obj : d:\epics\base-3.14.12.7/include/dbCa.h
+assign.obj : d:\epics\base-3.14.12.7/include/dbCommon.h
+assign.obj : d:\epics\base-3.14.12.7/include/db_field_log.h
+assign.obj : d:\epics\base-3.14.12.7/include/callback.h
+assign.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdTime.h
+assign.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdEvent.h
+
+

@@ -1,0 +1,51 @@
+# DO NOT EDIT: This file created by mkmf.pl,v 1.5 2002/03/25 21:33:24 jba Exp $ 
+
+change.obj : ../../../include/seq_snc.h
+change.obj : ../testSupport.h
+change.obj : ../seqMain.c
+change.obj : d:\epics\base-3.14.12.7/include/epicsExport.h
+change.obj : d:\epics\base-3.14.12.7/include/shareLib.h
+change.obj : ../../../include/seqCom.h
+change.obj : ../../../include/seq_prim_types.h
+change.obj : ../../../include/seq_mask.h
+change.obj : d:\epics\base-3.14.12.7/include/epicsThread.h
+change.obj : d:\epics\base-3.14.12.7/include/epicsMutex.h
+change.obj : d:\epics\base-3.14.12.7/include/epicsUnitTest.h
+change.obj : d:\epics\base-3.14.12.7/include/registryFunction.h
+change.obj : d:\epics\base-3.14.12.7/include/epicsExit.h
+change.obj : d:\epics\base-3.14.12.7/include/epicsStdio.h
+change.obj : d:\epics\base-3.14.12.7/include/dbStaticLib.h
+change.obj : d:\epics\base-3.14.12.7/include/subRecord.h
+change.obj : d:\epics\base-3.14.12.7/include/dbAccess.h
+change.obj : d:\epics\base-3.14.12.7/include/asDbLib.h
+change.obj : d:\epics\base-3.14.12.7/include/iocInit.h
+change.obj : d:\epics\base-3.14.12.7/include/iocsh.h
+change.obj : d:\epics\base-3.14.12.7/include/errlog.h
+change.obj : d:\epics\base-3.14.12.7/include/epicsTypes.h
+change.obj : d:\epics\base-3.14.12.7/include/epicsTime.h
+change.obj : ../../../include/pvAlarm.h
+change.obj : ../../../include/seq_release.h
+change.obj : d:\epics\base-3.14.12.7/include/epicsEvent.h
+change.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdThread.h
+change.obj : d:\epics\base-3.14.12.7/include/epicsAssert.h
+change.obj : d:\epics\base-3.14.12.7/include/compilerDependencies.h
+change.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdMutex.h
+change.obj : d:\epics\base-3.14.12.7/include/dbFldTypes.h
+change.obj : d:\epics\base-3.14.12.7/include/dbBase.h
+change.obj : d:\epics\base-3.14.12.7/include/link.h
+change.obj : d:\epics\base-3.14.12.7/include/errMdef.h
+change.obj : d:\epics\base-3.14.12.7/include/cantProceed.h
+change.obj : d:\epics\base-3.14.12.7/include/ellLib.h
+change.obj : d:\epics\base-3.14.12.7/include/dbDefs.h
+change.obj : d:\epics\base-3.14.12.7/include/caeventmask.h
+change.obj : d:\epics\base-3.14.12.7/include/dbAddr.h
+change.obj : d:\epics\base-3.14.12.7/include/dbLock.h
+change.obj : d:\epics\base-3.14.12.7/include/dbAccessDefs.h
+change.obj : d:\epics\base-3.14.12.7/include/dbCa.h
+change.obj : d:\epics\base-3.14.12.7/include/dbCommon.h
+change.obj : d:\epics\base-3.14.12.7/include/db_field_log.h
+change.obj : d:\epics\base-3.14.12.7/include/callback.h
+change.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdTime.h
+change.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdEvent.h
+
+

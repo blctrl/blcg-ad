@@ -1,0 +1,51 @@
+# DO NOT EDIT: This file created by mkmf.pl,v 1.5 2002/03/25 21:33:24 jba Exp $ 
+
+pvSyncNoDb.obj : ../../../include/seq_snc.h
+pvSyncNoDb.obj : ../testSupport.h
+pvSyncNoDb.obj : ../seqMain.c
+pvSyncNoDb.obj : d:\epics\base-3.14.12.7/include/epicsExport.h
+pvSyncNoDb.obj : d:\epics\base-3.14.12.7/include/shareLib.h
+pvSyncNoDb.obj : ../../../include/seqCom.h
+pvSyncNoDb.obj : ../../../include/seq_prim_types.h
+pvSyncNoDb.obj : ../../../include/seq_mask.h
+pvSyncNoDb.obj : d:\epics\base-3.14.12.7/include/epicsThread.h
+pvSyncNoDb.obj : d:\epics\base-3.14.12.7/include/epicsMutex.h
+pvSyncNoDb.obj : d:\epics\base-3.14.12.7/include/epicsUnitTest.h
+pvSyncNoDb.obj : d:\epics\base-3.14.12.7/include/registryFunction.h
+pvSyncNoDb.obj : d:\epics\base-3.14.12.7/include/epicsExit.h
+pvSyncNoDb.obj : d:\epics\base-3.14.12.7/include/epicsStdio.h
+pvSyncNoDb.obj : d:\epics\base-3.14.12.7/include/dbStaticLib.h
+pvSyncNoDb.obj : d:\epics\base-3.14.12.7/include/subRecord.h
+pvSyncNoDb.obj : d:\epics\base-3.14.12.7/include/dbAccess.h
+pvSyncNoDb.obj : d:\epics\base-3.14.12.7/include/asDbLib.h
+pvSyncNoDb.obj : d:\epics\base-3.14.12.7/include/iocInit.h
+pvSyncNoDb.obj : d:\epics\base-3.14.12.7/include/iocsh.h
+pvSyncNoDb.obj : d:\epics\base-3.14.12.7/include/errlog.h
+pvSyncNoDb.obj : d:\epics\base-3.14.12.7/include/epicsTypes.h
+pvSyncNoDb.obj : d:\epics\base-3.14.12.7/include/epicsTime.h
+pvSyncNoDb.obj : ../../../include/pvAlarm.h
+pvSyncNoDb.obj : ../../../include/seq_release.h
+pvSyncNoDb.obj : d:\epics\base-3.14.12.7/include/epicsEvent.h
+pvSyncNoDb.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdThread.h
+pvSyncNoDb.obj : d:\epics\base-3.14.12.7/include/epicsAssert.h
+pvSyncNoDb.obj : d:\epics\base-3.14.12.7/include/compilerDependencies.h
+pvSyncNoDb.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdMutex.h
+pvSyncNoDb.obj : d:\epics\base-3.14.12.7/include/dbFldTypes.h
+pvSyncNoDb.obj : d:\epics\base-3.14.12.7/include/dbBase.h
+pvSyncNoDb.obj : d:\epics\base-3.14.12.7/include/link.h
+pvSyncNoDb.obj : d:\epics\base-3.14.12.7/include/errMdef.h
+pvSyncNoDb.obj : d:\epics\base-3.14.12.7/include/cantProceed.h
+pvSyncNoDb.obj : d:\epics\base-3.14.12.7/include/ellLib.h
+pvSyncNoDb.obj : d:\epics\base-3.14.12.7/include/dbDefs.h
+pvSyncNoDb.obj : d:\epics\base-3.14.12.7/include/caeventmask.h
+pvSyncNoDb.obj : d:\epics\base-3.14.12.7/include/dbAddr.h
+pvSyncNoDb.obj : d:\epics\base-3.14.12.7/include/dbLock.h
+pvSyncNoDb.obj : d:\epics\base-3.14.12.7/include/dbAccessDefs.h
+pvSyncNoDb.obj : d:\epics\base-3.14.12.7/include/dbCa.h
+pvSyncNoDb.obj : d:\epics\base-3.14.12.7/include/dbCommon.h
+pvSyncNoDb.obj : d:\epics\base-3.14.12.7/include/db_field_log.h
+pvSyncNoDb.obj : d:\epics\base-3.14.12.7/include/callback.h
+pvSyncNoDb.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdTime.h
+pvSyncNoDb.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdEvent.h
+
+

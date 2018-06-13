@@ -1,0 +1,1 @@
+start caqtdm -macro "P=13SIM1:, R=cam1:" simDetector.adl

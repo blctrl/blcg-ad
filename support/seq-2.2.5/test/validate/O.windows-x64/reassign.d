@@ -1,0 +1,51 @@
+# DO NOT EDIT: This file created by mkmf.pl,v 1.5 2002/03/25 21:33:24 jba Exp $ 
+
+reassign.obj : ../../../include/seq_snc.h
+reassign.obj : ../testSupport.h
+reassign.obj : ../seqMain.c
+reassign.obj : d:\epics\base-3.14.12.7/include/epicsExport.h
+reassign.obj : d:\epics\base-3.14.12.7/include/shareLib.h
+reassign.obj : ../../../include/seqCom.h
+reassign.obj : ../../../include/seq_prim_types.h
+reassign.obj : ../../../include/seq_mask.h
+reassign.obj : d:\epics\base-3.14.12.7/include/epicsThread.h
+reassign.obj : d:\epics\base-3.14.12.7/include/epicsMutex.h
+reassign.obj : d:\epics\base-3.14.12.7/include/epicsUnitTest.h
+reassign.obj : d:\epics\base-3.14.12.7/include/registryFunction.h
+reassign.obj : d:\epics\base-3.14.12.7/include/epicsExit.h
+reassign.obj : d:\epics\base-3.14.12.7/include/epicsStdio.h
+reassign.obj : d:\epics\base-3.14.12.7/include/dbStaticLib.h
+reassign.obj : d:\epics\base-3.14.12.7/include/subRecord.h
+reassign.obj : d:\epics\base-3.14.12.7/include/dbAccess.h
+reassign.obj : d:\epics\base-3.14.12.7/include/asDbLib.h
+reassign.obj : d:\epics\base-3.14.12.7/include/iocInit.h
+reassign.obj : d:\epics\base-3.14.12.7/include/iocsh.h
+reassign.obj : d:\epics\base-3.14.12.7/include/errlog.h
+reassign.obj : d:\epics\base-3.14.12.7/include/epicsTypes.h
+reassign.obj : d:\epics\base-3.14.12.7/include/epicsTime.h
+reassign.obj : ../../../include/pvAlarm.h
+reassign.obj : ../../../include/seq_release.h
+reassign.obj : d:\epics\base-3.14.12.7/include/epicsEvent.h
+reassign.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdThread.h
+reassign.obj : d:\epics\base-3.14.12.7/include/epicsAssert.h
+reassign.obj : d:\epics\base-3.14.12.7/include/compilerDependencies.h
+reassign.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdMutex.h
+reassign.obj : d:\epics\base-3.14.12.7/include/dbFldTypes.h
+reassign.obj : d:\epics\base-3.14.12.7/include/dbBase.h
+reassign.obj : d:\epics\base-3.14.12.7/include/link.h
+reassign.obj : d:\epics\base-3.14.12.7/include/errMdef.h
+reassign.obj : d:\epics\base-3.14.12.7/include/cantProceed.h
+reassign.obj : d:\epics\base-3.14.12.7/include/ellLib.h
+reassign.obj : d:\epics\base-3.14.12.7/include/dbDefs.h
+reassign.obj : d:\epics\base-3.14.12.7/include/caeventmask.h
+reassign.obj : d:\epics\base-3.14.12.7/include/dbAddr.h
+reassign.obj : d:\epics\base-3.14.12.7/include/dbLock.h
+reassign.obj : d:\epics\base-3.14.12.7/include/dbAccessDefs.h
+reassign.obj : d:\epics\base-3.14.12.7/include/dbCa.h
+reassign.obj : d:\epics\base-3.14.12.7/include/dbCommon.h
+reassign.obj : d:\epics\base-3.14.12.7/include/db_field_log.h
+reassign.obj : d:\epics\base-3.14.12.7/include/callback.h
+reassign.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdTime.h
+reassign.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdEvent.h
+
+

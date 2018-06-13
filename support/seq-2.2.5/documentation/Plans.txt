@@ -1,0 +1,114 @@
+Plans for the Future
+====================
+
+This is just a simple bullet list of things that are on my (long term) TODO
+list. Comments are welcome, as usual.
+
+* Check whether it makes sense to let users specify the communication
+  (request) type. This is currently baked-in to be inferred from the
+  variable's type as specified in the program text. 
+  Another twist would be to allow to use the native type and convert
+  on the seq side. The question is if this
+  brings any actual benefit, considering that sequencer and database
+  typically run on the same IOC. It might be convenient, sometimes.
+
+* Add "pv" as a prefix type constructor. This is now implemented in my
+  working branch for version 2.3. Sketch::
+
+    int pv x = 0;                         /* single anonymous scalar pv */
+    int pv x = pv "name";                 /* single named scalar pv */
+    int (pv x)[2] = {1,2};                /* single anonymous array valued pv */
+    int (pv x)[2] = pv "name";            /* single named array valued pv */
+    int pv x[2];                          /* array of 2 anonymous scalar pvs */
+    int pv x[2] = pv {"n1", "n2"};        /* array of 2 named scalar pvs */
+    int (pv x[2])[100];                   /* array of 2 anonymous array valued pvs */
+    int (pv x[2])[100] = pv {"n1", "n2"}; /* array of 2 named array valued pvs */
+
+  This now also works for structs whose members can be of pv type etc.
+
+* Raw ideas:
+
+  - Allow parameterized state sets (like a function). Then allow to "jump"
+    from one state set to another one. The "caller" i.e. the original state
+    set must wait for the "callee" to finish. The idea here is to avoid
+    dynamic creation of threads, as this could be implemented as a simple
+    procedure call. Needs more thought.
+
+  - Better support for enumerations i.e. PVs with native request type DBR_ENUM.
+    The idea is that the programmer can use identifiers to name the choices,
+    but does not have to know in advance which integer value corresponds
+    to which choice.
+
+    Maybe something very simple suffices, like a built-in function ::
+
+      int pvChoice(var, char *choice_name);
+
+    This requires support for DBR_GR_ENUM in the pv layer.
+
+  - Better syntax for assign, monitor, sync, etc. The idea is to provide an
+    alternative to the usual macros. Every SNL programmer uses her own
+    self-made macros to simplify declaration blocks like ::
+
+      int x;
+      assign x to "bla";
+      monitor x;
+      sync x to ef_x;
+
+    The challenge here is to come up with something that is light-weight,
+    can be easily specialized, and seamlessly fits into the existing syntax.
+    
+    My current favorite candidate is to extend the pv initialization syntax.
+    The idea is that a pv init expression (i.e. an initializer prefixed with
+    the "pv" keyword) can get extra arguments with defaults::
+    
+      int pv x = pv "name";             /* just assigned to "name" */
+      int pv x = pv ("name");           /* same */
+      int pv x = pv ("name", 1);        /* also monitor */
+      int pv x = pv ("name", 1, ef);    /* also sync to ef */
+      int pv x = pv ("name", 0, ef);    /* no monitor, but sync to ef */
+      int pv x = pv ("name", 1, 0, 20); /* monitor, no sync, queued (size 20) */
+      int pv x[2] = pv ({"n1", "n2"},1);/* both pvs are monitored */
+      struct two {
+        int pv x;
+        int pv ys[2];
+      };
+      struct two s = pv {"n1", {"n2", "n3"}}; /* no monitors */
+      struct two s = pv {("n1",1), ({"n2", "n3"}, 1, ef)}; /* x monitored, ys also synced */
+      etc...
+
+    The "pv" outside of an aggregate "{ ... }" should be the same as
+    prefixing all elements with it. Aggregates in a pv argument position
+    are allowed only for the pv name and mean expand all elements with the
+    other arguments.
+
+* Convert everything under test to use epicsUnitTest. Add more regression tests.
+
+* Need to go over the introductory chapters in the docs, remove out-dated
+  information. Partly done.
+
+* Götz suggested to allow the monitor clause inside a state set, even if
+  the variable is global. This would mean automatic variable updates affect
+  only those state sets which contain the monitor clause, while others do
+  not get updates. (Perhaps: combine this with state set local event flags
+  and sync clauses.)
+
+  This could be useful in situations where one state set writes to the variable
+  and others only read. The writer would not monitor, thus would not fall
+  victim to the modify but not publish fallacy.
+
+  Experimental implementation in version 2.3 branch done. State local
+  assign, monitor, etc got in the way, which is why I removed them in 2.3
+  (deprecated in 2.2). They aren't too useful anyway.
+
+* Add some sort of built-in macro language. Something that nicely integrates
+  with the existing SNL syntax would be nice, e.g. ::
+
+    define macro (arg, ...) {
+      definition
+    }
+    include "headerfile";
+
+  Use of CPP could then be deprecated. What about token catenation and
+  stringification as in CPP?
+
+  Implementation would have to be an intermediate step between lexing and parsing.

@@ -1,0 +1,51 @@
+# DO NOT EDIT: This file created by mkmf.pl,v 1.5 2002/03/25 21:33:24 jba Exp $ 
+
+opttVar.obj : ../../../include/seq_snc.h
+opttVar.obj : ../testSupport.h
+opttVar.obj : ../seqMain.c
+opttVar.obj : d:\epics\base-3.14.12.7/include/epicsExport.h
+opttVar.obj : d:\epics\base-3.14.12.7/include/shareLib.h
+opttVar.obj : ../../../include/seqCom.h
+opttVar.obj : ../../../include/seq_prim_types.h
+opttVar.obj : ../../../include/seq_mask.h
+opttVar.obj : d:\epics\base-3.14.12.7/include/epicsThread.h
+opttVar.obj : d:\epics\base-3.14.12.7/include/epicsMutex.h
+opttVar.obj : d:\epics\base-3.14.12.7/include/epicsUnitTest.h
+opttVar.obj : d:\epics\base-3.14.12.7/include/registryFunction.h
+opttVar.obj : d:\epics\base-3.14.12.7/include/epicsExit.h
+opttVar.obj : d:\epics\base-3.14.12.7/include/epicsStdio.h
+opttVar.obj : d:\epics\base-3.14.12.7/include/dbStaticLib.h
+opttVar.obj : d:\epics\base-3.14.12.7/include/subRecord.h
+opttVar.obj : d:\epics\base-3.14.12.7/include/dbAccess.h
+opttVar.obj : d:\epics\base-3.14.12.7/include/asDbLib.h
+opttVar.obj : d:\epics\base-3.14.12.7/include/iocInit.h
+opttVar.obj : d:\epics\base-3.14.12.7/include/iocsh.h
+opttVar.obj : d:\epics\base-3.14.12.7/include/errlog.h
+opttVar.obj : d:\epics\base-3.14.12.7/include/epicsTypes.h
+opttVar.obj : d:\epics\base-3.14.12.7/include/epicsTime.h
+opttVar.obj : ../../../include/pvAlarm.h
+opttVar.obj : ../../../include/seq_release.h
+opttVar.obj : d:\epics\base-3.14.12.7/include/epicsEvent.h
+opttVar.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdThread.h
+opttVar.obj : d:\epics\base-3.14.12.7/include/epicsAssert.h
+opttVar.obj : d:\epics\base-3.14.12.7/include/compilerDependencies.h
+opttVar.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdMutex.h
+opttVar.obj : d:\epics\base-3.14.12.7/include/dbFldTypes.h
+opttVar.obj : d:\epics\base-3.14.12.7/include/dbBase.h
+opttVar.obj : d:\epics\base-3.14.12.7/include/link.h
+opttVar.obj : d:\epics\base-3.14.12.7/include/errMdef.h
+opttVar.obj : d:\epics\base-3.14.12.7/include/cantProceed.h
+opttVar.obj : d:\epics\base-3.14.12.7/include/ellLib.h
+opttVar.obj : d:\epics\base-3.14.12.7/include/dbDefs.h
+opttVar.obj : d:\epics\base-3.14.12.7/include/caeventmask.h
+opttVar.obj : d:\epics\base-3.14.12.7/include/dbAddr.h
+opttVar.obj : d:\epics\base-3.14.12.7/include/dbLock.h
+opttVar.obj : d:\epics\base-3.14.12.7/include/dbAccessDefs.h
+opttVar.obj : d:\epics\base-3.14.12.7/include/dbCa.h
+opttVar.obj : d:\epics\base-3.14.12.7/include/dbCommon.h
+opttVar.obj : d:\epics\base-3.14.12.7/include/db_field_log.h
+opttVar.obj : d:\epics\base-3.14.12.7/include/callback.h
+opttVar.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdTime.h
+opttVar.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdEvent.h
+
+

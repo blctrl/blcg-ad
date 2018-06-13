@@ -1,0 +1,72 @@
+Known Problems
+==============
+
+.. _Known_Problems_2.2.4:
+
+Known Problems in Release 2.2.4
+-------------------------------
+
+* Building fails with Visual Studio 2010 due to a C99-ism (mixed
+  declarations and code) that was introduced when upgrading the lemon parser
+  template.
+
+* Parallel building can fail when using gcc to generate dependency information.
+  The solution is to use the EPICS tool mkmf.pl instead by placing a line
+
+    HDEPENDS_METHOD = MKMF
+
+  in the config section of src/snc/Makefile.
+
+* On Windows, ``make clean`` fails inside the documentation directory. The
+  fix is to replace ``rm -rf`` with ``$(RMDIR)`` in documentation/Makefile.
+
+.. _Known_Problems_2.2.3:
+
+Known Problems in Release 2.2.3
+-------------------------------
+
+* Certain versions of Windows don't like relative paths with forward slashes
+  for commands whose result gets redirected to a file. This leads to errors
+  when building against base-3.15 which has deprecated the ``PATH_FILTER``
+  function (which converts forward to backward slashes). The solution is to
+  define ``LEMON=$(abspath $(INSTALL_HOST_BIN)/lemon$(HOSTEXE))`` in
+  ``src/snc/Makefile``.
+
+.. _Known_Problems_2.2.2:
+
+Known Problems in Release 2.2.2
+-------------------------------
+
+* Attempting to issue a DEFAULT pvPut when an ASYNC put is already
+  pending on the same variable leads to an assertion failure.
+
+.. _Known_Problems_2.2.1:
+
+Known Problems in Release 2.2.1
+-------------------------------
+
+* In test/validate, pvAssignStress.st has the same program name as
+  pvAssignSubst.st, leading to build errors when cross-compiling to VxWorks
+  or RTEMS, where all tests get linked into a single library. This can be
+  fixed by changing the program name in pvAssignStress.st to
+  "pvAssignStressTest".
+
+* A previous bugfix in the pvAssign builtin introduced a regression, that
+  can lead to assertion failures.
+
+* A wrong assertion in the CA event handler may be triggered when connection
+  to a PV is lost in the middle of a pending get request.
+
+* When exiting from a program, deadlock is possible when a pending callback
+  is active when the program shuts down.
+
+* Tests fail in tests/compiler if the build host has an ancient version of
+  Test::More that does not support subtest. This happens e.g. on RHEL 6.6.
+
+* Dependency generation in src/snc is broken if compiled against base-3.15
+  due to a bug in the Makefile (and one in base).
+
+* Building static libraries fails due to wrong order of dependent libraries
+  in two Makefiles.
+
+* Building on Windows can fail due to missing epicsShare stuff in seq_snc.h.

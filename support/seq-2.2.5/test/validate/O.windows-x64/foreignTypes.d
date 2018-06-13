@@ -1,0 +1,51 @@
+# DO NOT EDIT: This file created by mkmf.pl,v 1.5 2002/03/25 21:33:24 jba Exp $ 
+
+foreignTypes.obj : ../../../include/seq_snc.h
+foreignTypes.obj : ../testSupport.h
+foreignTypes.obj : ../seqMain.c
+foreignTypes.obj : d:\epics\base-3.14.12.7/include/epicsExport.h
+foreignTypes.obj : d:\epics\base-3.14.12.7/include/shareLib.h
+foreignTypes.obj : ../../../include/seqCom.h
+foreignTypes.obj : ../../../include/seq_prim_types.h
+foreignTypes.obj : ../../../include/seq_mask.h
+foreignTypes.obj : d:\epics\base-3.14.12.7/include/epicsThread.h
+foreignTypes.obj : d:\epics\base-3.14.12.7/include/epicsMutex.h
+foreignTypes.obj : d:\epics\base-3.14.12.7/include/epicsUnitTest.h
+foreignTypes.obj : d:\epics\base-3.14.12.7/include/registryFunction.h
+foreignTypes.obj : d:\epics\base-3.14.12.7/include/epicsExit.h
+foreignTypes.obj : d:\epics\base-3.14.12.7/include/epicsStdio.h
+foreignTypes.obj : d:\epics\base-3.14.12.7/include/dbStaticLib.h
+foreignTypes.obj : d:\epics\base-3.14.12.7/include/subRecord.h
+foreignTypes.obj : d:\epics\base-3.14.12.7/include/dbAccess.h
+foreignTypes.obj : d:\epics\base-3.14.12.7/include/asDbLib.h
+foreignTypes.obj : d:\epics\base-3.14.12.7/include/iocInit.h
+foreignTypes.obj : d:\epics\base-3.14.12.7/include/iocsh.h
+foreignTypes.obj : d:\epics\base-3.14.12.7/include/errlog.h
+foreignTypes.obj : d:\epics\base-3.14.12.7/include/epicsTypes.h
+foreignTypes.obj : d:\epics\base-3.14.12.7/include/epicsTime.h
+foreignTypes.obj : ../../../include/pvAlarm.h
+foreignTypes.obj : ../../../include/seq_release.h
+foreignTypes.obj : d:\epics\base-3.14.12.7/include/epicsEvent.h
+foreignTypes.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdThread.h
+foreignTypes.obj : d:\epics\base-3.14.12.7/include/epicsAssert.h
+foreignTypes.obj : d:\epics\base-3.14.12.7/include/compilerDependencies.h
+foreignTypes.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdMutex.h
+foreignTypes.obj : d:\epics\base-3.14.12.7/include/dbFldTypes.h
+foreignTypes.obj : d:\epics\base-3.14.12.7/include/dbBase.h
+foreignTypes.obj : d:\epics\base-3.14.12.7/include/link.h
+foreignTypes.obj : d:\epics\base-3.14.12.7/include/errMdef.h
+foreignTypes.obj : d:\epics\base-3.14.12.7/include/cantProceed.h
+foreignTypes.obj : d:\epics\base-3.14.12.7/include/ellLib.h
+foreignTypes.obj : d:\epics\base-3.14.12.7/include/dbDefs.h
+foreignTypes.obj : d:\epics\base-3.14.12.7/include/caeventmask.h
+foreignTypes.obj : d:\epics\base-3.14.12.7/include/dbAddr.h
+foreignTypes.obj : d:\epics\base-3.14.12.7/include/dbLock.h
+foreignTypes.obj : d:\epics\base-3.14.12.7/include/dbAccessDefs.h
+foreignTypes.obj : d:\epics\base-3.14.12.7/include/dbCa.h
+foreignTypes.obj : d:\epics\base-3.14.12.7/include/dbCommon.h
+foreignTypes.obj : d:\epics\base-3.14.12.7/include/db_field_log.h
+foreignTypes.obj : d:\epics\base-3.14.12.7/include/callback.h
+foreignTypes.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdTime.h
+foreignTypes.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdEvent.h
+
+

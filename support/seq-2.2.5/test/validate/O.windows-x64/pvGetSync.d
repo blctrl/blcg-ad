@@ -1,0 +1,51 @@
+# DO NOT EDIT: This file created by mkmf.pl,v 1.5 2002/03/25 21:33:24 jba Exp $ 
+
+pvGetSync.obj : ../../../include/seq_snc.h
+pvGetSync.obj : ../testSupport.h
+pvGetSync.obj : ../seqMain.c
+pvGetSync.obj : d:\epics\base-3.14.12.7/include/epicsExport.h
+pvGetSync.obj : d:\epics\base-3.14.12.7/include/shareLib.h
+pvGetSync.obj : ../../../include/seqCom.h
+pvGetSync.obj : ../../../include/seq_prim_types.h
+pvGetSync.obj : ../../../include/seq_mask.h
+pvGetSync.obj : d:\epics\base-3.14.12.7/include/epicsThread.h
+pvGetSync.obj : d:\epics\base-3.14.12.7/include/epicsMutex.h
+pvGetSync.obj : d:\epics\base-3.14.12.7/include/epicsUnitTest.h
+pvGetSync.obj : d:\epics\base-3.14.12.7/include/registryFunction.h
+pvGetSync.obj : d:\epics\base-3.14.12.7/include/epicsExit.h
+pvGetSync.obj : d:\epics\base-3.14.12.7/include/epicsStdio.h
+pvGetSync.obj : d:\epics\base-3.14.12.7/include/dbStaticLib.h
+pvGetSync.obj : d:\epics\base-3.14.12.7/include/subRecord.h
+pvGetSync.obj : d:\epics\base-3.14.12.7/include/dbAccess.h
+pvGetSync.obj : d:\epics\base-3.14.12.7/include/asDbLib.h
+pvGetSync.obj : d:\epics\base-3.14.12.7/include/iocInit.h
+pvGetSync.obj : d:\epics\base-3.14.12.7/include/iocsh.h
+pvGetSync.obj : d:\epics\base-3.14.12.7/include/errlog.h
+pvGetSync.obj : d:\epics\base-3.14.12.7/include/epicsTypes.h
+pvGetSync.obj : d:\epics\base-3.14.12.7/include/epicsTime.h
+pvGetSync.obj : ../../../include/pvAlarm.h
+pvGetSync.obj : ../../../include/seq_release.h
+pvGetSync.obj : d:\epics\base-3.14.12.7/include/epicsEvent.h
+pvGetSync.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdThread.h
+pvGetSync.obj : d:\epics\base-3.14.12.7/include/epicsAssert.h
+pvGetSync.obj : d:\epics\base-3.14.12.7/include/compilerDependencies.h
+pvGetSync.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdMutex.h
+pvGetSync.obj : d:\epics\base-3.14.12.7/include/dbFldTypes.h
+pvGetSync.obj : d:\epics\base-3.14.12.7/include/dbBase.h
+pvGetSync.obj : d:\epics\base-3.14.12.7/include/link.h
+pvGetSync.obj : d:\epics\base-3.14.12.7/include/errMdef.h
+pvGetSync.obj : d:\epics\base-3.14.12.7/include/cantProceed.h
+pvGetSync.obj : d:\epics\base-3.14.12.7/include/ellLib.h
+pvGetSync.obj : d:\epics\base-3.14.12.7/include/dbDefs.h
+pvGetSync.obj : d:\epics\base-3.14.12.7/include/caeventmask.h
+pvGetSync.obj : d:\epics\base-3.14.12.7/include/dbAddr.h
+pvGetSync.obj : d:\epics\base-3.14.12.7/include/dbLock.h
+pvGetSync.obj : d:\epics\base-3.14.12.7/include/dbAccessDefs.h
+pvGetSync.obj : d:\epics\base-3.14.12.7/include/dbCa.h
+pvGetSync.obj : d:\epics\base-3.14.12.7/include/dbCommon.h
+pvGetSync.obj : d:\epics\base-3.14.12.7/include/db_field_log.h
+pvGetSync.obj : d:\epics\base-3.14.12.7/include/callback.h
+pvGetSync.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdTime.h
+pvGetSync.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdEvent.h
+
+

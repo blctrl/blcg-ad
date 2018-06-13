@@ -1,0 +1,51 @@
+# DO NOT EDIT: This file created by mkmf.pl,v 1.5 2002/03/25 21:33:24 jba Exp $ 
+
+safeModeNotAssigned.obj : ../../../include/seq_snc.h
+safeModeNotAssigned.obj : ../testSupport.h
+safeModeNotAssigned.obj : ../seqMain.c
+safeModeNotAssigned.obj : d:\epics\base-3.14.12.7/include/epicsExport.h
+safeModeNotAssigned.obj : d:\epics\base-3.14.12.7/include/shareLib.h
+safeModeNotAssigned.obj : ../../../include/seqCom.h
+safeModeNotAssigned.obj : ../../../include/seq_prim_types.h
+safeModeNotAssigned.obj : ../../../include/seq_mask.h
+safeModeNotAssigned.obj : d:\epics\base-3.14.12.7/include/epicsThread.h
+safeModeNotAssigned.obj : d:\epics\base-3.14.12.7/include/epicsMutex.h
+safeModeNotAssigned.obj : d:\epics\base-3.14.12.7/include/epicsUnitTest.h
+safeModeNotAssigned.obj : d:\epics\base-3.14.12.7/include/registryFunction.h
+safeModeNotAssigned.obj : d:\epics\base-3.14.12.7/include/epicsExit.h
+safeModeNotAssigned.obj : d:\epics\base-3.14.12.7/include/epicsStdio.h
+safeModeNotAssigned.obj : d:\epics\base-3.14.12.7/include/dbStaticLib.h
+safeModeNotAssigned.obj : d:\epics\base-3.14.12.7/include/subRecord.h
+safeModeNotAssigned.obj : d:\epics\base-3.14.12.7/include/dbAccess.h
+safeModeNotAssigned.obj : d:\epics\base-3.14.12.7/include/asDbLib.h
+safeModeNotAssigned.obj : d:\epics\base-3.14.12.7/include/iocInit.h
+safeModeNotAssigned.obj : d:\epics\base-3.14.12.7/include/iocsh.h
+safeModeNotAssigned.obj : d:\epics\base-3.14.12.7/include/errlog.h
+safeModeNotAssigned.obj : d:\epics\base-3.14.12.7/include/epicsTypes.h
+safeModeNotAssigned.obj : d:\epics\base-3.14.12.7/include/epicsTime.h
+safeModeNotAssigned.obj : ../../../include/pvAlarm.h
+safeModeNotAssigned.obj : ../../../include/seq_release.h
+safeModeNotAssigned.obj : d:\epics\base-3.14.12.7/include/epicsEvent.h
+safeModeNotAssigned.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdThread.h
+safeModeNotAssigned.obj : d:\epics\base-3.14.12.7/include/epicsAssert.h
+safeModeNotAssigned.obj : d:\epics\base-3.14.12.7/include/compilerDependencies.h
+safeModeNotAssigned.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdMutex.h
+safeModeNotAssigned.obj : d:\epics\base-3.14.12.7/include/dbFldTypes.h
+safeModeNotAssigned.obj : d:\epics\base-3.14.12.7/include/dbBase.h
+safeModeNotAssigned.obj : d:\epics\base-3.14.12.7/include/link.h
+safeModeNotAssigned.obj : d:\epics\base-3.14.12.7/include/errMdef.h
+safeModeNotAssigned.obj : d:\epics\base-3.14.12.7/include/cantProceed.h
+safeModeNotAssigned.obj : d:\epics\base-3.14.12.7/include/ellLib.h
+safeModeNotAssigned.obj : d:\epics\base-3.14.12.7/include/dbDefs.h
+safeModeNotAssigned.obj : d:\epics\base-3.14.12.7/include/caeventmask.h
+safeModeNotAssigned.obj : d:\epics\base-3.14.12.7/include/dbAddr.h
+safeModeNotAssigned.obj : d:\epics\base-3.14.12.7/include/dbLock.h
+safeModeNotAssigned.obj : d:\epics\base-3.14.12.7/include/dbAccessDefs.h
+safeModeNotAssigned.obj : d:\epics\base-3.14.12.7/include/dbCa.h
+safeModeNotAssigned.obj : d:\epics\base-3.14.12.7/include/dbCommon.h
+safeModeNotAssigned.obj : d:\epics\base-3.14.12.7/include/db_field_log.h
+safeModeNotAssigned.obj : d:\epics\base-3.14.12.7/include/callback.h
+safeModeNotAssigned.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdTime.h
+safeModeNotAssigned.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdEvent.h
+
+

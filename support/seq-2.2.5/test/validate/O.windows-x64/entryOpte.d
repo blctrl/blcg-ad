@@ -1,0 +1,51 @@
+# DO NOT EDIT: This file created by mkmf.pl,v 1.5 2002/03/25 21:33:24 jba Exp $ 
+
+entryOpte.obj : ../../../include/seq_snc.h
+entryOpte.obj : ../testSupport.h
+entryOpte.obj : ../seqMain.c
+entryOpte.obj : d:\epics\base-3.14.12.7/include/epicsExport.h
+entryOpte.obj : d:\epics\base-3.14.12.7/include/shareLib.h
+entryOpte.obj : ../../../include/seqCom.h
+entryOpte.obj : ../../../include/seq_prim_types.h
+entryOpte.obj : ../../../include/seq_mask.h
+entryOpte.obj : d:\epics\base-3.14.12.7/include/epicsThread.h
+entryOpte.obj : d:\epics\base-3.14.12.7/include/epicsMutex.h
+entryOpte.obj : d:\epics\base-3.14.12.7/include/epicsUnitTest.h
+entryOpte.obj : d:\epics\base-3.14.12.7/include/registryFunction.h
+entryOpte.obj : d:\epics\base-3.14.12.7/include/epicsExit.h
+entryOpte.obj : d:\epics\base-3.14.12.7/include/epicsStdio.h
+entryOpte.obj : d:\epics\base-3.14.12.7/include/dbStaticLib.h
+entryOpte.obj : d:\epics\base-3.14.12.7/include/subRecord.h
+entryOpte.obj : d:\epics\base-3.14.12.7/include/dbAccess.h
+entryOpte.obj : d:\epics\base-3.14.12.7/include/asDbLib.h
+entryOpte.obj : d:\epics\base-3.14.12.7/include/iocInit.h
+entryOpte.obj : d:\epics\base-3.14.12.7/include/iocsh.h
+entryOpte.obj : d:\epics\base-3.14.12.7/include/errlog.h
+entryOpte.obj : d:\epics\base-3.14.12.7/include/epicsTypes.h
+entryOpte.obj : d:\epics\base-3.14.12.7/include/epicsTime.h
+entryOpte.obj : ../../../include/pvAlarm.h
+entryOpte.obj : ../../../include/seq_release.h
+entryOpte.obj : d:\epics\base-3.14.12.7/include/epicsEvent.h
+entryOpte.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdThread.h
+entryOpte.obj : d:\epics\base-3.14.12.7/include/epicsAssert.h
+entryOpte.obj : d:\epics\base-3.14.12.7/include/compilerDependencies.h
+entryOpte.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdMutex.h
+entryOpte.obj : d:\epics\base-3.14.12.7/include/dbFldTypes.h
+entryOpte.obj : d:\epics\base-3.14.12.7/include/dbBase.h
+entryOpte.obj : d:\epics\base-3.14.12.7/include/link.h
+entryOpte.obj : d:\epics\base-3.14.12.7/include/errMdef.h
+entryOpte.obj : d:\epics\base-3.14.12.7/include/cantProceed.h
+entryOpte.obj : d:\epics\base-3.14.12.7/include/ellLib.h
+entryOpte.obj : d:\epics\base-3.14.12.7/include/dbDefs.h
+entryOpte.obj : d:\epics\base-3.14.12.7/include/caeventmask.h
+entryOpte.obj : d:\epics\base-3.14.12.7/include/dbAddr.h
+entryOpte.obj : d:\epics\base-3.14.12.7/include/dbLock.h
+entryOpte.obj : d:\epics\base-3.14.12.7/include/dbAccessDefs.h
+entryOpte.obj : d:\epics\base-3.14.12.7/include/dbCa.h
+entryOpte.obj : d:\epics\base-3.14.12.7/include/dbCommon.h
+entryOpte.obj : d:\epics\base-3.14.12.7/include/db_field_log.h
+entryOpte.obj : d:\epics\base-3.14.12.7/include/callback.h
+entryOpte.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdTime.h
+entryOpte.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdEvent.h
+
+

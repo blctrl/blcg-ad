@@ -1,0 +1,51 @@
+# DO NOT EDIT: This file created by mkmf.pl,v 1.5 2002/03/25 21:33:24 jba Exp $ 
+
+evflagExt.obj : ../../../include/seq_snc.h
+evflagExt.obj : ../testSupport.h
+evflagExt.obj : ../seqMain.c
+evflagExt.obj : d:\epics\base-3.14.12.7/include/epicsExport.h
+evflagExt.obj : d:\epics\base-3.14.12.7/include/shareLib.h
+evflagExt.obj : ../../../include/seqCom.h
+evflagExt.obj : ../../../include/seq_prim_types.h
+evflagExt.obj : ../../../include/seq_mask.h
+evflagExt.obj : d:\epics\base-3.14.12.7/include/epicsThread.h
+evflagExt.obj : d:\epics\base-3.14.12.7/include/epicsMutex.h
+evflagExt.obj : d:\epics\base-3.14.12.7/include/epicsUnitTest.h
+evflagExt.obj : d:\epics\base-3.14.12.7/include/registryFunction.h
+evflagExt.obj : d:\epics\base-3.14.12.7/include/epicsExit.h
+evflagExt.obj : d:\epics\base-3.14.12.7/include/epicsStdio.h
+evflagExt.obj : d:\epics\base-3.14.12.7/include/dbStaticLib.h
+evflagExt.obj : d:\epics\base-3.14.12.7/include/subRecord.h
+evflagExt.obj : d:\epics\base-3.14.12.7/include/dbAccess.h
+evflagExt.obj : d:\epics\base-3.14.12.7/include/asDbLib.h
+evflagExt.obj : d:\epics\base-3.14.12.7/include/iocInit.h
+evflagExt.obj : d:\epics\base-3.14.12.7/include/iocsh.h
+evflagExt.obj : d:\epics\base-3.14.12.7/include/errlog.h
+evflagExt.obj : d:\epics\base-3.14.12.7/include/epicsTypes.h
+evflagExt.obj : d:\epics\base-3.14.12.7/include/epicsTime.h
+evflagExt.obj : ../../../include/pvAlarm.h
+evflagExt.obj : ../../../include/seq_release.h
+evflagExt.obj : d:\epics\base-3.14.12.7/include/epicsEvent.h
+evflagExt.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdThread.h
+evflagExt.obj : d:\epics\base-3.14.12.7/include/epicsAssert.h
+evflagExt.obj : d:\epics\base-3.14.12.7/include/compilerDependencies.h
+evflagExt.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdMutex.h
+evflagExt.obj : d:\epics\base-3.14.12.7/include/dbFldTypes.h
+evflagExt.obj : d:\epics\base-3.14.12.7/include/dbBase.h
+evflagExt.obj : d:\epics\base-3.14.12.7/include/link.h
+evflagExt.obj : d:\epics\base-3.14.12.7/include/errMdef.h
+evflagExt.obj : d:\epics\base-3.14.12.7/include/cantProceed.h
+evflagExt.obj : d:\epics\base-3.14.12.7/include/ellLib.h
+evflagExt.obj : d:\epics\base-3.14.12.7/include/dbDefs.h
+evflagExt.obj : d:\epics\base-3.14.12.7/include/caeventmask.h
+evflagExt.obj : d:\epics\base-3.14.12.7/include/dbAddr.h
+evflagExt.obj : d:\epics\base-3.14.12.7/include/dbLock.h
+evflagExt.obj : d:\epics\base-3.14.12.7/include/dbAccessDefs.h
+evflagExt.obj : d:\epics\base-3.14.12.7/include/dbCa.h
+evflagExt.obj : d:\epics\base-3.14.12.7/include/dbCommon.h
+evflagExt.obj : d:\epics\base-3.14.12.7/include/db_field_log.h
+evflagExt.obj : d:\epics\base-3.14.12.7/include/callback.h
+evflagExt.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdTime.h
+evflagExt.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdEvent.h
+
+

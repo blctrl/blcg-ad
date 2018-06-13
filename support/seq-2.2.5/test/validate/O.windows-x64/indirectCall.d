@@ -1,0 +1,51 @@
+# DO NOT EDIT: This file created by mkmf.pl,v 1.5 2002/03/25 21:33:24 jba Exp $ 
+
+indirectCall.obj : ../../../include/seq_snc.h
+indirectCall.obj : ../testSupport.h
+indirectCall.obj : ../seqMain.c
+indirectCall.obj : d:\epics\base-3.14.12.7/include/epicsExport.h
+indirectCall.obj : d:\epics\base-3.14.12.7/include/shareLib.h
+indirectCall.obj : ../../../include/seqCom.h
+indirectCall.obj : ../../../include/seq_prim_types.h
+indirectCall.obj : ../../../include/seq_mask.h
+indirectCall.obj : d:\epics\base-3.14.12.7/include/epicsThread.h
+indirectCall.obj : d:\epics\base-3.14.12.7/include/epicsMutex.h
+indirectCall.obj : d:\epics\base-3.14.12.7/include/epicsUnitTest.h
+indirectCall.obj : d:\epics\base-3.14.12.7/include/registryFunction.h
+indirectCall.obj : d:\epics\base-3.14.12.7/include/epicsExit.h
+indirectCall.obj : d:\epics\base-3.14.12.7/include/epicsStdio.h
+indirectCall.obj : d:\epics\base-3.14.12.7/include/dbStaticLib.h
+indirectCall.obj : d:\epics\base-3.14.12.7/include/subRecord.h
+indirectCall.obj : d:\epics\base-3.14.12.7/include/dbAccess.h
+indirectCall.obj : d:\epics\base-3.14.12.7/include/asDbLib.h
+indirectCall.obj : d:\epics\base-3.14.12.7/include/iocInit.h
+indirectCall.obj : d:\epics\base-3.14.12.7/include/iocsh.h
+indirectCall.obj : d:\epics\base-3.14.12.7/include/errlog.h
+indirectCall.obj : d:\epics\base-3.14.12.7/include/epicsTypes.h
+indirectCall.obj : d:\epics\base-3.14.12.7/include/epicsTime.h
+indirectCall.obj : ../../../include/pvAlarm.h
+indirectCall.obj : ../../../include/seq_release.h
+indirectCall.obj : d:\epics\base-3.14.12.7/include/epicsEvent.h
+indirectCall.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdThread.h
+indirectCall.obj : d:\epics\base-3.14.12.7/include/epicsAssert.h
+indirectCall.obj : d:\epics\base-3.14.12.7/include/compilerDependencies.h
+indirectCall.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdMutex.h
+indirectCall.obj : d:\epics\base-3.14.12.7/include/dbFldTypes.h
+indirectCall.obj : d:\epics\base-3.14.12.7/include/dbBase.h
+indirectCall.obj : d:\epics\base-3.14.12.7/include/link.h
+indirectCall.obj : d:\epics\base-3.14.12.7/include/errMdef.h
+indirectCall.obj : d:\epics\base-3.14.12.7/include/cantProceed.h
+indirectCall.obj : d:\epics\base-3.14.12.7/include/ellLib.h
+indirectCall.obj : d:\epics\base-3.14.12.7/include/dbDefs.h
+indirectCall.obj : d:\epics\base-3.14.12.7/include/caeventmask.h
+indirectCall.obj : d:\epics\base-3.14.12.7/include/dbAddr.h
+indirectCall.obj : d:\epics\base-3.14.12.7/include/dbLock.h
+indirectCall.obj : d:\epics\base-3.14.12.7/include/dbAccessDefs.h
+indirectCall.obj : d:\epics\base-3.14.12.7/include/dbCa.h
+indirectCall.obj : d:\epics\base-3.14.12.7/include/dbCommon.h
+indirectCall.obj : d:\epics\base-3.14.12.7/include/db_field_log.h
+indirectCall.obj : d:\epics\base-3.14.12.7/include/callback.h
+indirectCall.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdTime.h
+indirectCall.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdEvent.h
+
+

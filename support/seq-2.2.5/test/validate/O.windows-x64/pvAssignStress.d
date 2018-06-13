@@ -1,0 +1,51 @@
+# DO NOT EDIT: This file created by mkmf.pl,v 1.5 2002/03/25 21:33:24 jba Exp $ 
+
+pvAssignStress.obj : ../../../include/seq_snc.h
+pvAssignStress.obj : ../testSupport.h
+pvAssignStress.obj : ../seqMain.c
+pvAssignStress.obj : d:\epics\base-3.14.12.7/include/epicsExport.h
+pvAssignStress.obj : d:\epics\base-3.14.12.7/include/shareLib.h
+pvAssignStress.obj : ../../../include/seqCom.h
+pvAssignStress.obj : ../../../include/seq_prim_types.h
+pvAssignStress.obj : ../../../include/seq_mask.h
+pvAssignStress.obj : d:\epics\base-3.14.12.7/include/epicsThread.h
+pvAssignStress.obj : d:\epics\base-3.14.12.7/include/epicsMutex.h
+pvAssignStress.obj : d:\epics\base-3.14.12.7/include/epicsUnitTest.h
+pvAssignStress.obj : d:\epics\base-3.14.12.7/include/registryFunction.h
+pvAssignStress.obj : d:\epics\base-3.14.12.7/include/epicsExit.h
+pvAssignStress.obj : d:\epics\base-3.14.12.7/include/epicsStdio.h
+pvAssignStress.obj : d:\epics\base-3.14.12.7/include/dbStaticLib.h
+pvAssignStress.obj : d:\epics\base-3.14.12.7/include/subRecord.h
+pvAssignStress.obj : d:\epics\base-3.14.12.7/include/dbAccess.h
+pvAssignStress.obj : d:\epics\base-3.14.12.7/include/asDbLib.h
+pvAssignStress.obj : d:\epics\base-3.14.12.7/include/iocInit.h
+pvAssignStress.obj : d:\epics\base-3.14.12.7/include/iocsh.h
+pvAssignStress.obj : d:\epics\base-3.14.12.7/include/errlog.h
+pvAssignStress.obj : d:\epics\base-3.14.12.7/include/epicsTypes.h
+pvAssignStress.obj : d:\epics\base-3.14.12.7/include/epicsTime.h
+pvAssignStress.obj : ../../../include/pvAlarm.h
+pvAssignStress.obj : ../../../include/seq_release.h
+pvAssignStress.obj : d:\epics\base-3.14.12.7/include/epicsEvent.h
+pvAssignStress.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdThread.h
+pvAssignStress.obj : d:\epics\base-3.14.12.7/include/epicsAssert.h
+pvAssignStress.obj : d:\epics\base-3.14.12.7/include/compilerDependencies.h
+pvAssignStress.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdMutex.h
+pvAssignStress.obj : d:\epics\base-3.14.12.7/include/dbFldTypes.h
+pvAssignStress.obj : d:\epics\base-3.14.12.7/include/dbBase.h
+pvAssignStress.obj : d:\epics\base-3.14.12.7/include/link.h
+pvAssignStress.obj : d:\epics\base-3.14.12.7/include/errMdef.h
+pvAssignStress.obj : d:\epics\base-3.14.12.7/include/cantProceed.h
+pvAssignStress.obj : d:\epics\base-3.14.12.7/include/ellLib.h
+pvAssignStress.obj : d:\epics\base-3.14.12.7/include/dbDefs.h
+pvAssignStress.obj : d:\epics\base-3.14.12.7/include/caeventmask.h
+pvAssignStress.obj : d:\epics\base-3.14.12.7/include/dbAddr.h
+pvAssignStress.obj : d:\epics\base-3.14.12.7/include/dbLock.h
+pvAssignStress.obj : d:\epics\base-3.14.12.7/include/dbAccessDefs.h
+pvAssignStress.obj : d:\epics\base-3.14.12.7/include/dbCa.h
+pvAssignStress.obj : d:\epics\base-3.14.12.7/include/dbCommon.h
+pvAssignStress.obj : d:\epics\base-3.14.12.7/include/db_field_log.h
+pvAssignStress.obj : d:\epics\base-3.14.12.7/include/callback.h
+pvAssignStress.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdTime.h
+pvAssignStress.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdEvent.h
+
+

@@ -1,0 +1,51 @@
+# DO NOT EDIT: This file created by mkmf.pl,v 1.5 2002/03/25 21:33:24 jba Exp $ 
+
+norace.obj : ../../../include/seq_snc.h
+norace.obj : ../testSupport.h
+norace.obj : ../seqMain.c
+norace.obj : d:\epics\base-3.14.12.7/include/epicsExport.h
+norace.obj : d:\epics\base-3.14.12.7/include/shareLib.h
+norace.obj : ../../../include/seqCom.h
+norace.obj : ../../../include/seq_prim_types.h
+norace.obj : ../../../include/seq_mask.h
+norace.obj : d:\epics\base-3.14.12.7/include/epicsThread.h
+norace.obj : d:\epics\base-3.14.12.7/include/epicsMutex.h
+norace.obj : d:\epics\base-3.14.12.7/include/epicsUnitTest.h
+norace.obj : d:\epics\base-3.14.12.7/include/registryFunction.h
+norace.obj : d:\epics\base-3.14.12.7/include/epicsExit.h
+norace.obj : d:\epics\base-3.14.12.7/include/epicsStdio.h
+norace.obj : d:\epics\base-3.14.12.7/include/dbStaticLib.h
+norace.obj : d:\epics\base-3.14.12.7/include/subRecord.h
+norace.obj : d:\epics\base-3.14.12.7/include/dbAccess.h
+norace.obj : d:\epics\base-3.14.12.7/include/asDbLib.h
+norace.obj : d:\epics\base-3.14.12.7/include/iocInit.h
+norace.obj : d:\epics\base-3.14.12.7/include/iocsh.h
+norace.obj : d:\epics\base-3.14.12.7/include/errlog.h
+norace.obj : d:\epics\base-3.14.12.7/include/epicsTypes.h
+norace.obj : d:\epics\base-3.14.12.7/include/epicsTime.h
+norace.obj : ../../../include/pvAlarm.h
+norace.obj : ../../../include/seq_release.h
+norace.obj : d:\epics\base-3.14.12.7/include/epicsEvent.h
+norace.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdThread.h
+norace.obj : d:\epics\base-3.14.12.7/include/epicsAssert.h
+norace.obj : d:\epics\base-3.14.12.7/include/compilerDependencies.h
+norace.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdMutex.h
+norace.obj : d:\epics\base-3.14.12.7/include/dbFldTypes.h
+norace.obj : d:\epics\base-3.14.12.7/include/dbBase.h
+norace.obj : d:\epics\base-3.14.12.7/include/link.h
+norace.obj : d:\epics\base-3.14.12.7/include/errMdef.h
+norace.obj : d:\epics\base-3.14.12.7/include/cantProceed.h
+norace.obj : d:\epics\base-3.14.12.7/include/ellLib.h
+norace.obj : d:\epics\base-3.14.12.7/include/dbDefs.h
+norace.obj : d:\epics\base-3.14.12.7/include/caeventmask.h
+norace.obj : d:\epics\base-3.14.12.7/include/dbAddr.h
+norace.obj : d:\epics\base-3.14.12.7/include/dbLock.h
+norace.obj : d:\epics\base-3.14.12.7/include/dbAccessDefs.h
+norace.obj : d:\epics\base-3.14.12.7/include/dbCa.h
+norace.obj : d:\epics\base-3.14.12.7/include/dbCommon.h
+norace.obj : d:\epics\base-3.14.12.7/include/db_field_log.h
+norace.obj : d:\epics\base-3.14.12.7/include/callback.h
+norace.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdTime.h
+norace.obj : d:\epics\base-3.14.12.7/include/os/WIN32/osdEvent.h
+
+

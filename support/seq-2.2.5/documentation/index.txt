@@ -1,0 +1,41 @@
+.. meta::
+   :keywords: programming language, control system, epics, sequencer,
+      snl, snc, control system, domain specific language, state machine,
+      state notation language, channel access
+   :title: EPICS State Notation Language and Sequencer
+
+State Notation Language and Sequencer
+=====================================
+
+.. image:: epics-logo.png
+   :align: right
+
+:Maintainer: Ben Franksen <benjamin.franksen@helmholtz-berlin.de>
+:Co-Maintainer: Freddie Akeroyd <freddie.akeroyd@stfc.ac.uk>
+:Bug Reports: tech-talk@aps.anl.gov
+:Version: |version|
+
+Welcome to the home page of the **EPICS Sequencer** project.
+
+
+.. include:: About.txt
+
+.. toctree::
+   :hidden:
+
+   Home <self>
+   Manual
+   Introduction
+   Installation
+   Tutorial
+   Compiling
+   Using
+   EscapeToC
+   Reference
+   Examples
+   ReleaseNotes-2-2
+   KnownProblems
+   Plans
+   Glossary
+
+.. `genindex`
